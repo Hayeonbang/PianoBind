@@ -1,0 +1,3957 @@
+[
+    {
+        "caption": "Ballad, Emotional, Melancholic, Romantic, Sentimental",
+        "audio_path": "UnIK2FRzDI0.npy",
+        "audio_id": 7113
+    },
+    {
+        "caption": "jazz, advanced, emotional",
+        "audio_path": "mJF2xRh-HSM.npy",
+        "audio_id": 7114
+    },
+    {
+        "caption": "dramatic, fun",
+        "audio_path": "SnrTGdjQL7k.npy",
+        "audio_id": 7115
+    },
+    {
+        "caption": "classical, energetic, piano",
+        "audio_path": "-hQ9KeHIIuw.npy",
+        "audio_id": 7116
+    },
+    {
+        "caption": "epic, cinematic, inspirational, dramatic",
+        "audio_path": "qbzaN2WAXQE.npy",
+        "audio_id": 7117
+    },
+    {
+        "caption": "jazz, ballad, soothing, emotional",
+        "audio_path": "uvKrkGCwXD4.npy",
+        "audio_id": 7118
+    },
+    {
+        "caption": "serene, soothing, nocturnal, romantic",
+        "audio_path": "gAq9uqL44T0.npy",
+        "audio_id": 7119
+    },
+    {
+        "caption": "nostalgic, melancholic, reflective, cinematic, animated",
+        "audio_path": "fHZ9xO1KtAo.npy",
+        "audio_id": 7120
+    },
+    {
+        "caption": "tutorial, Hindi songs, short films",
+        "audio_path": "k-3ZINNkKzY.npy",
+        "audio_id": 7121
+    },
+    {
+        "caption": "nostalgic, emotional, pop, accompaniment",
+        "audio_path": "-Lsp7eaP680.npy",
+        "audio_id": 7122
+    },
+    {
+        "caption": "drama, emotional, suspenseful, instrumental, cinematic",
+        "audio_path": "0bDEViSakoM.npy",
+        "audio_id": 7123
+    },
+    {
+        "caption": "romantic, relaxing, classic, love, beautiful",
+        "audio_path": "kkFy3KE_part_10.npy",
+        "audio_id": 7124
+    },
+    {
+        "caption": "romantic, sentimental, nostalgic, classic, love, emotional",
+        "audio_path": "avd_6o__part_15.npy",
+        "audio_id": 7125
+    },
+    {
+        "caption": "jazz, classical, practicing, variations",
+        "audio_path": "PH83h7Tp1i4.npy",
+        "audio_id": 7126
+    },
+    {
+        "caption": "contemporary, modern, easy, intermediate, beautiful, emotional",
+        "audio_path": "9z45qrS_part_2.npy",
+        "audio_id": 7127
+    },
+    {
+        "caption": "nostalgic, funk, jazz, improvisation, pop",
+        "audio_path": "Pj8CZDJACmA.npy",
+        "audio_id": 7128
+    },
+    {
+        "caption": "relaxation, calm, peaceful, soothing, healing, meditation, sleep, stress relief",
+        "audio_path": "n_n2a8h_part_4.npy",
+        "audio_id": 7129
+    },
+    {
+        "caption": "relaxing, romantic, calming, soothing, stress-relief, zen, meditation, sleep, background, therapy",
+        "audio_path": "pa1bkMo_part_8.npy",
+        "audio_id": 7130
+    },
+    {
+        "caption": "romantic, classical, relaxing, beautiful, love",
+        "audio_path": "-z_H9dN_part_1.npy",
+        "audio_id": 7131
+    },
+    {
+        "caption": "relaxing, romantic, instrumental, calm, soothing, stress-relief, therapy, positive",
+        "audio_path": "pa1bkMo_part_10.npy",
+        "audio_id": 7132
+    },
+    {
+        "caption": "creepy, calm, jazz, kpop, pop, new age, ost",
+        "audio_path": "fTIEcJzl_eY.npy",
+        "audio_id": 7133
+    },
+    {
+        "caption": "Blues, Jazz, Swing, Improvisation, Bebop",
+        "audio_path": "QjIFKPZL5tY.npy",
+        "audio_id": 7134
+    },
+    {
+        "caption": "meditation, prayer, Christian, worship, relaxation, quiet",
+        "audio_path": "cex-s4b_part_5.npy",
+        "audio_id": 7135
+    },
+    {
+        "caption": "jazz, romantic, standard",
+        "audio_path": "Wn1b8om_1-M.npy",
+        "audio_id": 7136
+    },
+    {
+        "caption": "jazz, nostalgic, emotional",
+        "audio_path": "L0RgIK6ASPU.npy",
+        "audio_id": 7137
+    },
+    {
+        "caption": "jazz, blues",
+        "audio_path": "XtV75VQ153k.npy",
+        "audio_id": 7138
+    },
+    {
+        "caption": "korean cute piano, cover, relaxing, soothing",
+        "audio_path": "utpnmFAWocI.npy",
+        "audio_id": 7139
+    },
+    {
+        "caption": "anime, emotional, Japanese, adventurous, energetic",
+        "audio_path": "nzKHqm2-1cI.npy",
+        "audio_id": 7140
+    },
+    {
+        "caption": "Bossa Nova, accompaniment, lyrical",
+        "audio_path": "IaJWcYNiHM0.npy",
+        "audio_id": 7141
+    },
+    {
+        "caption": "romantic, relaxing, love, serenity",
+        "audio_path": "Pgprzpc_part_11.npy",
+        "audio_id": 7142
+    },
+    {
+        "caption": "serene, nostalgic, cinematic, emotional",
+        "audio_path": "ILeSHbz0u04.npy",
+        "audio_id": 7143
+    },
+    {
+        "caption": "energetic, intense, dramatic, anime",
+        "audio_path": "2B1JnomG6wY.npy",
+        "audio_id": 7144
+    },
+    {
+        "caption": "Jazz, Improvisation, Gospel, Jazz Blues, Healing",
+        "audio_path": "HuiQNvAKSdI.npy",
+        "audio_id": 7145
+    },
+    {
+        "caption": "emotional, uplifting, energetic, dance, electronic, tribute",
+        "audio_path": "ajrNelGN-s8.npy",
+        "audio_id": 7146
+    },
+    {
+        "caption": "Jazz, Gospel, Blues, Improvisation, Standards",
+        "audio_path": "lpblc3Buloo.npy",
+        "audio_id": 7147
+    },
+    {
+        "caption": "jazz, pop, modern, ballad, relaxing, peaceful,",
+        "audio_path": "9-EpR2tCpog.npy",
+        "audio_id": 7148
+    },
+    {
+        "caption": "emotional, relaxing, heartfelt, cinematic, orchestral, epic, sad, contemporary, ,",
+        "audio_path": "KMCaac1_part_4.npy",
+        "audio_id": 7149
+    },
+    {
+        "caption": "acoustic, ballad, christian, hymn, jazz, peaceful, relaxing, worship",
+        "audio_path": "3NV9UGjBbqo.npy",
+        "audio_id": 7150
+    },
+    {
+        "caption": "energetic, competitive, playful, exhilarating, rhythmic",
+        "audio_path": "Gv1EfVVQ1gM.npy",
+        "audio_id": 7151
+    },
+    {
+        "caption": "jazz, stride, classic, 1920s, emotional, swing, syncopation, early jazz, ballad,",
+        "audio_path": "hRi4obJinjQ.npy",
+        "audio_id": 7152
+    },
+    {
+        "caption": "melancholic, acoustic, cover, soothing",
+        "audio_path": "hk-JZbeUX2w.npy",
+        "audio_id": 7153
+    },
+    {
+        "caption": "anime, epic, tutorial, dark, dramatic, powerful, heroic",
+        "audio_path": "082SRY1VGes.npy",
+        "audio_id": 7154
+    },
+    {
+        "caption": "romantic, emotional, Bollywood, classical, Indian, viral, trending",
+        "audio_path": "JSwLIuzCVHw.npy",
+        "audio_id": 7155
+    },
+    {
+        "caption": "romantic, love, relaxing, classical, beautiful, stress-relief, emotional, special-occasion, unforgettable, journey",
+        "audio_path": "2Ox8ZDY_part_6.npy",
+        "audio_id": 7156
+    },
+    {
+        "caption": "relaxing, beautiful, calming, soothing",
+        "audio_path": "WspL56E_part_2.npy",
+        "audio_id": 7157
+    },
+    {
+        "caption": "ragtime, synthetic, crazy",
+        "audio_path": "D6lgiEnuDJ4.npy",
+        "audio_id": 7158
+    },
+    {
+        "caption": "New Age, calming, soothing, relaxing",
+        "audio_path": "WAIX_wmj6v4_part_1.npy",
+        "audio_id": 7159
+    },
+    {
+        "caption": "Christmas, serene, piano",
+        "audio_path": "HI36Hiyx9oE.npy",
+        "audio_id": 7160
+    },
+    {
+        "caption": "sad, emotional, cinematic, background",
+        "audio_path": "2gOKQVAItdg.npy",
+        "audio_id": 7161
+    },
+    {
+        "caption": "jazz, revolutionary, difficult",
+        "audio_path": "qmz5s9UhJB0.npy",
+        "audio_id": 7162
+    },
+    {
+        "caption": ", worship, christian, relaxing, soaking",
+        "audio_path": "zROSAak_part_10.npy",
+        "audio_id": 7163
+    },
+    {
+        "caption": "romantic, soothing, reflective, nocturnal, commemorative",
+        "audio_path": "ixEfsOUMX8k.npy",
+        "audio_id": 7164
+    },
+    {
+        "caption": "classical, late romantic era, russian romanticism, energetic, piano",
+        "audio_path": "UN0Pk-QXaPo.npy",
+        "audio_id": 7165
+    },
+    {
+        "caption": "new age, piano, sensitive, dawn, floral",
+        "audio_path": "aJ1u7K1MC1U.npy",
+        "audio_id": 7166
+    },
+    {
+        "caption": "funk, groove, synthetic",
+        "audio_path": "4QAxUvw9ays.npy",
+        "audio_id": 7167
+    },
+    {
+        "caption": "dark, sad, depressed, slow",
+        "audio_path": "lDn0dEvIXLQ.npy",
+        "audio_id": 7168
+    },
+    {
+        "caption": "romantic, relaxing, classical, love, beautiful",
+        "audio_path": "-z_H9dN_part_10.npy",
+        "audio_id": 7169
+    },
+    {
+        "caption": "romantic, relaxing, beautiful, love, soothing",
+        "audio_path": "Vt00OLV_part_11.npy",
+        "audio_id": 7170
+    },
+    {
+        "caption": "romantic, swing, bossa nova, rumba, slow swing, enchanting, timeless, love",
+        "audio_path": "9eYJ24MocZQ.npy",
+        "audio_id": 7171
+    },
+    {
+        "caption": "romantic, classical, love, relaxation, passionate, sweet, timeless",
+        "audio_path": "KhzxpR1_part_7.npy",
+        "audio_id": 7172
+    },
+    {
+        "caption": "New Age, Piano, Animation OST, Healing, Warm",
+        "audio_path": "qG2y1SvYerw.npy",
+        "audio_id": 7173
+    },
+    {
+        "caption": "bossa nova, advanced, medium tempo, Brazilian",
+        "audio_path": "P4r5R4JuVIo.npy",
+        "audio_id": 7174
+    },
+    {
+        "caption": "intense, classical, dramatic",
+        "audio_path": "AEMgNMNeBr4.npy",
+        "audio_id": 7175
+    },
+    {
+        "caption": "cozy, Christmas, traditional, folk, holiday",
+        "audio_path": "pK5xwwRyEbc.npy",
+        "audio_id": 7176
+    },
+    {
+        "caption": "new age, calming, soothing, reflective",
+        "audio_path": "TQv1Uheu-9Y.npy",
+        "audio_id": 7177
+    },
+    {
+        "caption": "romantic, love, beautiful, relaxing, happy, sad",
+        "audio_path": "1Ez-p6x_part_3.npy",
+        "audio_id": 7178
+    },
+    {
+        "caption": "tango, passionate, emotional",
+        "audio_path": "y4_sIZeL-tI.npy",
+        "audio_id": 7179
+    },
+    {
+        "caption": "horror, creepy, dark, emotional, sad",
+        "audio_path": "UCa0X65G_Wk.npy",
+        "audio_id": 7180
+    },
+    {
+        "caption": "Bossa Nova, Jazz, Improvisation, Piano",
+        "audio_path": "-GSuQnzdymo.npy",
+        "audio_id": 7181
+    },
+    {
+        "caption": "jazz, ballad, romantic",
+        "audio_path": "iX6a1jYKMp4.npy",
+        "audio_id": 7182
+    },
+    {
+        "caption": "lonely, sad, easy",
+        "audio_path": "_lGfsQO2AA8.npy",
+        "audio_id": 7183
+    },
+    {
+        "caption": "relaxing, peaceful, soft, instrumental, sleep",
+        "audio_path": "KviGlA0_part_15.npy",
+        "audio_id": 7184
+    },
+    {
+        "caption": "relaxing, calm, gentle, sleep, study, Disney",
+        "audio_path": "XnPL8Kl_part_70.npy",
+        "audio_id": 7185
+    },
+    {
+        "caption": "romantic, beautiful, relaxing, nostalgic, emotional, love, classic",
+        "audio_path": "_cLnE4d_part_11.npy",
+        "audio_id": 7186
+    },
+    {
+        "caption": "jazz, romantic, soothing",
+        "audio_path": "ifCP_euYYXU.npy",
+        "audio_id": 7187
+    },
+    {
+        "caption": ", accompaniment, shuffle",
+        "audio_path": "ucjV6GanAQw.npy",
+        "audio_id": 7188
+    },
+    {
+        "caption": "piano, practice, beginner, adult, progress",
+        "audio_path": "Y8MDVQGMhOo.npy",
+        "audio_id": 7189
+    },
+    {
+        "caption": "relaxing, , cinematic, emotional",
+        "audio_path": "KNPbZHIBCVI.npy",
+        "audio_id": 7190
+    },
+    {
+        "caption": "acoustic, New Age, cover, solo, emotional, relaxing",
+        "audio_path": "Tsr0l7T3XfA.npy",
+        "audio_id": 7191
+    },
+    {
+        "caption": "classical, relaxing, study, concentration, calming",
+        "audio_path": "VB6SIKl_part_11.npy",
+        "audio_id": 7192
+    },
+    {
+        "caption": "original, calming, soothing",
+        "audio_path": "zU3_vSoalJ4.npy",
+        "audio_id": 7193
+    },
+    {
+        "caption": "relaxing, calming, nostalgic, ambient, ASMR",
+        "audio_path": "J2SMI3v_part_2.npy",
+        "audio_id": 7194
+    },
+    {
+        "caption": "inspirational, cinematic, emotional",
+        "audio_path": "LBlFIgFdCSs.npy",
+        "audio_id": 7195
+    },
+    {
+        "caption": "classical, improvisation, modern, contemporary, original, composing",
+        "audio_path": "UZL9YUVznCA.npy",
+        "audio_id": 7196
+    },
+    {
+        "caption": "Epic, Piano, Video Game Music, Cinematic",
+        "audio_path": "1PetRVcM2sk.npy",
+        "audio_id": 7197
+    },
+    {
+        "caption": "pop, romantic, calming, tutorial",
+        "audio_path": "WGq801kWHp8.npy",
+        "audio_id": 7198
+    },
+    {
+        "caption": "romantic, emotional, beautiful, serene, captivating, relaxing, happy, sad",
+        "audio_path": "F1V4VJF_part_14.npy",
+        "audio_id": 7199
+    },
+    {
+        "caption": "relaxing, soothing, meditation, sleeping, calming, meditating, reiki, healing, stress relief, concentration, studying, working",
+        "audio_path": "1UG4kneMjJE.npy",
+        "audio_id": 7200
+    },
+    {
+        "caption": "jazz, improvisation, blues, swing, relaxing, healing",
+        "audio_path": "IdmsgQDGYhg.npy",
+        "audio_id": 7201
+    },
+    {
+        "caption": "relaxing, stress relief, calm, meditation",
+        "audio_path": "-u5_mS8_part_3.npy",
+        "audio_id": 7202
+    },
+    {
+        "caption": "ragtime, pre-jazz, influential, archetypal",
+        "audio_path": "HTxVmayuFCo.npy",
+        "audio_id": 7203
+    },
+    {
+        "caption": "classical, energetic, dynamic, intense, dramatic",
+        "audio_path": "pr1UjCwwuBA.npy",
+        "audio_id": 7204
+    },
+    {
+        "caption": "emotional, gentle, reflective, calming, soothing",
+        "audio_path": "E_ILAbOkjSk.npy",
+        "audio_id": 7205
+    },
+    {
+        "caption": "classical, challenging, intense, dramatic, virtuosic",
+        "audio_path": "EzWBaaI5S70.npy",
+        "audio_id": 7206
+    },
+    {
+        "caption": "pop, jazz, emotional, advanced",
+        "audio_path": "2w_cxOjwJtA.npy",
+        "audio_id": 7207
+    },
+    {
+        "caption": "Jazz, Stride Piano, Old Jazz, Syncopation, Piano, Swing Piano, Classic Jazz, Early Jazz, Battle",
+        "audio_path": "bfuO_1udWtk.npy",
+        "audio_id": 7208
+    },
+    {
+        "caption": ", standards, pops",
+        "audio_path": "dn9izpa0jBs.npy",
+        "audio_id": 7209
+    },
+    {
+        "caption": "tutorial, educational, learning, cover",
+        "audio_path": "qTVnFVHf_UA.npy",
+        "audio_id": 7210
+    },
+    {
+        "caption": "romantic, relaxing, beautiful, joyful, happy, sad",
+        "audio_path": "1Ez-p6x_part_1.npy",
+        "audio_id": 7211
+    },
+    {
+        "caption": "sad, emotional, piano, cry, melancholic, classical, relaxing, contemplative, breakup",
+        "audio_path": "wUbjdRRBCNU.npy",
+        "audio_id": 7212
+    },
+    {
+        "caption": "sad, emotional, orchestral,",
+        "audio_path": "f3tvj_Wil6w.npy",
+        "audio_id": 7213
+    },
+    {
+        "caption": "jazz, waltz, advanced,",
+        "audio_path": "0yUU5EN2msQ.npy",
+        "audio_id": 7214
+    },
+    {
+        "caption": "romantic, beautiful, relaxing, classic, instrumental, love, tranquil, calming, powerful, majestic",
+        "audio_path": "KbAEQzP_part_2.npy",
+        "audio_id": 7215
+    },
+    {
+        "caption": "relaxing, meditative, chill, background, piano, study",
+        "audio_path": "Om6x-WM_part_7.npy",
+        "audio_id": 7216
+    },
+    {
+        "caption": "classical, jazz, ragtime, improvisation, Scott Joplin",
+        "audio_path": "B5lSEjkjdhI.npy",
+        "audio_id": 7217
+    },
+    {
+        "caption": "jazz, stride, swing, classic, early, ballad, syncopation",
+        "audio_path": "5SsdmXesE_M.npy",
+        "audio_id": 7218
+    },
+    {
+        "caption": "relaxing, peaceful, ambient, chill, soothing, spiritual, meditation, yoga, study, background",
+        "audio_path": "EhO_MrR_part_5.npy",
+        "audio_id": 7219
+    },
+    {
+        "caption": "relaxing, soothing, gentle, dreamy, lullaby, sleep, calming, tranquil, serene, classical, bedtime, nap",
+        "audio_path": "iupQzDOZYGo.npy",
+        "audio_id": 7220
+    },
+    {
+        "caption": "happy, relaxing, beautiful, study, sleep, meditation, background, calm, soft, spa, yoga, peaceful, romantic, emotional, stress relief, positive energy",
+        "audio_path": "FEJ6Nd-Q-aA.npy",
+        "audio_id": 7221
+    },
+    {
+        "caption": "dramatic, emotional, Korean drama, OST",
+        "audio_path": "Ti7ppiHij5A.npy",
+        "audio_id": 7222
+    },
+    {
+        "caption": "horror, background",
+        "audio_path": "xzNIUl-oMxw.npy",
+        "audio_id": 7223
+    },
+    {
+        "caption": "soft, melancholic, ballad, intermediate-level, A major",
+        "audio_path": "JSBxZILVnXk.npy",
+        "audio_id": 7224
+    },
+    {
+        "caption": "relaxing, compilation, cover, tutorial, live, concert",
+        "audio_path": "0XmI-LW_part_7.npy",
+        "audio_id": 7225
+    },
+    {
+        "caption": "celebratory, joyful, festive",
+        "audio_path": "2imJIaUWtM4.npy",
+        "audio_id": 7226
+    },
+    {
+        "caption": "piano cover,",
+        "audio_path": "rqWhbYMq6pg.npy",
+        "audio_id": 7227
+    },
+    {
+        "caption": "relaxing, calm, peaceful, healing, soothing, romantic, meditation, sleep, study, spa, background, beautiful",
+        "audio_path": "cjkFG6b_part_19.npy",
+        "audio_id": 7228
+    },
+    {
+        "caption": "jazz, advanced, difficult, movie, waltz",
+        "audio_path": "CVRa00v2-04.npy",
+        "audio_id": 7229
+    },
+    {
+        "caption": "romantic, emotional, Bollywood, epic, cover",
+        "audio_path": "MrXqCHlhVDk.npy",
+        "audio_id": 7230
+    },
+    {
+        "caption": "emotional, Japanese, cinematic,",
+        "audio_path": "gFywFHJN79I.npy",
+        "audio_id": 7231
+    },
+    {
+        "caption": "new age, epic, passionate, piano, ancestral, emotional",
+        "audio_path": "Hfbi4ZZPQe4.npy",
+        "audio_id": 7232
+    },
+    {
+        "caption": "cozy, cute, piano, relaxing",
+        "audio_path": "lzfMZsqwUtA.npy",
+        "audio_id": 7233
+    },
+    {
+        "caption": "animated, playful, cheerful, energetic",
+        "audio_path": "M0iD1gVvxlI.npy",
+        "audio_id": 7234
+    },
+    {
+        "caption": "relaxing, ambient, beautiful, scenic, serene, tranquil, peaceful",
+        "audio_path": "8KujGcZ_part_6.npy",
+        "audio_id": 7235
+    },
+    {
+        "caption": "jazz, blues, energetic, improvisational",
+        "audio_path": "oY7OHGTTKNU.npy",
+        "audio_id": 7236
+    },
+    {
+        "caption": "relaxing, piano, Disney, soothing, collection",
+        "audio_path": "xHCJfB8_part_11.npy",
+        "audio_id": 7237
+    },
+    {
+        "caption": "romantic, relaxing, beautiful, love, happy, sad",
+        "audio_path": "Kwikpft_part_10.npy",
+        "audio_id": 7238
+    },
+    {
+        "caption": "sad, relaxing, classical, meditation, calm",
+        "audio_path": "Am9jAnV_part_1.npy",
+        "audio_id": 7239
+    },
+    {
+        "caption": "relaxing, calm, peaceful, soothing, sleep, meditation, study, beautiful",
+        "audio_path": "o8GrqUS_part_50.npy",
+        "audio_id": 7240
+    },
+    {
+        "caption": "k-pop, retro, swing, stride piano, walking bass",
+        "audio_path": "jXXGL4DuT3Y.npy",
+        "audio_id": 7241
+    },
+    {
+        "caption": "sad, emotional, background, free, copyright-free, piano, violin, flute, cinematic, Islamic, halal, Arabic, natok, Bangla, Hindi, motivational",
+        "audio_path": "siaejNwF6Yk.npy",
+        "audio_id": 7242
+    },
+    {
+        "caption": "Christmas, festive, joyful, celebratory",
+        "audio_path": "UCseSZpQrPc.npy",
+        "audio_id": 7243
+    },
+    {
+        "caption": "elegant, sweet, artistic, Arabian",
+        "audio_path": "QDcoccT_UrE.npy",
+        "audio_id": 7244
+    },
+    {
+        "caption": "romantic, classic, relaxing, love, beautiful, happy, sad",
+        "audio_path": "hDdVbTc_part_12.npy",
+        "audio_id": 7245
+    },
+    {
+        "caption": "romantic, love, gentle, bliss, cozy, harp, beautiful, relaxing, happy, sad",
+        "audio_path": "Yb_cCF7_part_12.npy",
+        "audio_id": 7246
+    },
+    {
+        "caption": "nostalgic, celebratory, joyful, traditional",
+        "audio_path": "yg3xo4IZTA4.npy",
+        "audio_id": 7247
+    },
+    {
+        "caption": "intense, emotional, dramatic, melancholic, cover, live performance",
+        "audio_path": "oIdupe2xEUk.npy",
+        "audio_id": 7248
+    },
+    {
+        "caption": "relaxing, sleep, study, meditation, calming, peaceful, soothing, stress relief, healing, serene, tranquil, soft, Zen",
+        "audio_path": "CR7BC0XIAO8.npy",
+        "audio_id": 7249
+    },
+    {
+        "caption": "jazz, swing, piano",
+        "audio_path": "E6FkLx_dsGs.npy",
+        "audio_id": 7250
+    },
+    {
+        "caption": "romantic, relaxing, love, beautiful",
+        "audio_path": "kgC9Nof_part_12.npy",
+        "audio_id": 7251
+    },
+    {
+        "caption": "calming, romantic, soothing, contemporary, Korean",
+        "audio_path": "jBobfoL_part_1.npy",
+        "audio_id": 7252
+    },
+    {
+        "caption": "relaxing, soft, beautiful, compilation, covers, anime, piano, medley",
+        "audio_path": "tvZgpXt_part_7.npy",
+        "audio_id": 7253
+    },
+    {
+        "caption": "peaceful, relaxing, Christian, hymn, ballad, meditation, worship, stress relief, deep healing",
+        "audio_path": "JFOSJd_uhM8.npy",
+        "audio_id": 7254
+    },
+    {
+        "caption": "Christmas, Jazz, Soul, Gospel, R&B",
+        "audio_path": "cLVf_IyULjU.npy",
+        "audio_id": 7255
+    },
+    {
+        "caption": "melancholy, contemporary, waltz, bittersweet, French",
+        "audio_path": "z68jh1OX9AE.npy",
+        "audio_id": 7256
+    },
+    {
+        "caption": "famous, cinematic, commercial, synthetic, tutorial, meme, beginner, intermediate, hard, classical, anime, video games, movies",
+        "audio_path": "QL6pJ2_O92w.npy",
+        "audio_id": 7257
+    },
+    {
+        "caption": "jazz, blues, boogie, dance, live, tutorial, rock",
+        "audio_path": "Ta9a0UrcrMc.npy",
+        "audio_id": 7258
+    },
+    {
+        "caption": "relaxing, healing, peaceful, New Age, comfortable",
+        "audio_path": "KZA0qhzOONU.npy",
+        "audio_id": 7259
+    },
+    {
+        "caption": "K-Pop, retro, 1980s, 1990s",
+        "audio_path": "4T2viXj0lWc.npy",
+        "audio_id": 7260
+    },
+    {
+        "caption": "ragtime, jazz, upbeat, playful",
+        "audio_path": "tA3DzBuxnHo.npy",
+        "audio_id": 7261
+    },
+    {
+        "caption": "Relaxing, Blues, Piano",
+        "audio_path": "ceUecvknXck.npy",
+        "audio_id": 7262
+    },
+    {
+        "caption": "jazz, improvisation, swing, bass-line, chords, walking-bass",
+        "audio_path": "X1UdyRfJx78.npy",
+        "audio_id": 7263
+    },
+    {
+        "caption": "relaxing, romantic, classical, love, beautiful",
+        "audio_path": "lqO6DRr_part_13.npy",
+        "audio_id": 7264
+    },
+    {
+        "caption": "Gospel, Blues, Spiritual, Soulful",
+        "audio_path": "IvRkwfdbjes.npy",
+        "audio_id": 7265
+    },
+    {
+        "caption": "classical, romantic, relaxing, sad, soft, calm, beautiful, love",
+        "audio_path": "PM5wt7T_part_1.npy",
+        "audio_id": 7266
+    },
+    {
+        "caption": "dark, ambient, horror, mysterious,",
+        "audio_path": "01GrSCqDZOQ.npy",
+        "audio_id": 7267
+    },
+    {
+        "caption": "romantic, cinematic, simplified, emotional",
+        "audio_path": "1rNgz9pDClc.npy",
+        "audio_id": 7268
+    },
+    {
+        "caption": "calm, meditation, peaceful, relax, soothing, sleep, study, classical",
+        "audio_path": "ALRc7H3nWDE.npy",
+        "audio_id": 7269
+    },
+    {
+        "caption": "relaxing, classical, cozy, romantic, study,",
+        "audio_path": "Exz6rmm_part_37.npy",
+        "audio_id": 7270
+    },
+    {
+        "caption": "funk, tutorial, synthetic, learning, teaching, DIY, meme, TikTok, type beat, orchestra, choir, blob opera",
+        "audio_path": "kp8J8tofHQk.npy",
+        "audio_id": 7271
+    },
+    {
+        "caption": "romantic, emotional, soothing, reflective",
+        "audio_path": "bvBiT7EI7hg.npy",
+        "audio_id": 7272
+    },
+    {
+        "caption": "jazz, optimistic, calming",
+        "audio_path": "uOs3z-uKVHg.npy",
+        "audio_id": 7273
+    },
+    {
+        "caption": "solitude, melancholy, reflective, K-pop, ballad",
+        "audio_path": "mfRVNtSQrlk.npy",
+        "audio_id": 7274
+    },
+    {
+        "caption": "relaxing, calming, peaceful, autumn, thanksgiving, joy",
+        "audio_path": "VuuWu2m_part_3.npy",
+        "audio_id": 7275
+    },
+    {
+        "caption": "classical, love songs, romantic, relaxing, 70s, 80s, 90s",
+        "audio_path": "yxhpzB8_part_2.npy",
+        "audio_id": 7276
+    },
+    {
+        "caption": "pop, rock, emotional",
+        "audio_path": "ZRi1T-_p9I4.npy",
+        "audio_id": 7277
+    },
+    {
+        "caption": "bluesy, ballad, slow, emotional, reflective",
+        "audio_path": "m44cR5u9SJs.npy",
+        "audio_id": 7278
+    },
+    {
+        "caption": "classical, educational, skill progression",
+        "audio_path": "p7rPHVkcRLI.npy",
+        "audio_id": 7279
+    },
+    {
+        "caption": "romantic, nostalgic, passionate, cinematic, emotional",
+        "audio_path": "dVXVQmFvOD4.npy",
+        "audio_id": 7280
+    },
+    {
+        "caption": "sad, emotional, relaxing, beautiful",
+        "audio_path": "VagES3pxttQ.npy",
+        "audio_id": 7281
+    },
+    {
+        "caption": "playful, classical, relaxation, lullabies, harmonic",
+        "audio_path": "Qxad-5z7uzk.npy",
+        "audio_id": 7282
+    },
+    {
+        "caption": "relaxing, sleep, study, instrumental",
+        "audio_path": "Bks_979_part_4.npy",
+        "audio_id": 7283
+    },
+    {
+        "caption": "intense, classical, romantic, German, dramatic, technical",
+        "audio_path": "jKJWfUTmZeQ.npy",
+        "audio_id": 7284
+    },
+    {
+        "caption": "romantic, relaxing, love",
+        "audio_path": "s0KyLJG_part_11.npy",
+        "audio_id": 7285
+    },
+    {
+        "caption": "sad, depression, stress relief, anxiety, calm, sorrowful, melancholy, peaceful, relaxing, motivational, inspiring, peaceful, overcome pain, heartbroken",
+        "audio_path": "0J4E9YI_part_2.npy",
+        "audio_id": 7286
+    },
+    {
+        "caption": "calm, relaxation, soothing, peaceful, sleep, meditation, study, beautiful, relaxing",
+        "audio_path": "o8GrqUS_part_4.npy",
+        "audio_id": 7287
+    },
+    {
+        "caption": "romantic, soothing, relaxing, beautiful, love, classical, heart-touching, melodies",
+        "audio_path": "VrFKJlU_part_3.npy",
+        "audio_id": 7288
+    },
+    {
+        "caption": "piano, soothing, joyful",
+        "audio_path": "OE1x8jGdBPk.npy",
+        "audio_id": 7289
+    },
+    {
+        "caption": "progress, improvement, dedication, patience, achievement, learning",
+        "audio_path": "Af3tMhYbZKQ.npy",
+        "audio_id": 7290
+    },
+    {
+        "caption": "relaxing, nostalgic, beautiful, sad, melodic, lullaby, anime, emotional,",
+        "audio_path": "FAeN2SgtNwU.npy",
+        "audio_id": 7291
+    },
+    {
+        "caption": "Jazz, Piano, Standards, Solo, Improvisation, Blues, Pops, Swing, Jazz Blues",
+        "audio_path": "4HjiIOqIPd4.npy",
+        "audio_id": 7292
+    },
+    {
+        "caption": "tango, milonga, relaxing, jazz",
+        "audio_path": "0_cDRDBBZ7I.npy",
+        "audio_id": 7293
+    },
+    {
+        "caption": "bossa nova, baroque, calming, jazz, intermediate, C minor",
+        "audio_path": "yymeERxT5dc.npy",
+        "audio_id": 7294
+    },
+    {
+        "caption": "Korean, ballad, emotional, melancholic",
+        "audio_path": "VjXnctWSp0w.npy",
+        "audio_id": 7295
+    },
+    {
+        "caption": "trot, improvisation, confrontation, perfection",
+        "audio_path": "TsA8hKMERtU.npy",
+        "audio_id": 7296
+    },
+    {
+        "caption": "dramatic, solo, piano",
+        "audio_path": "5HsBoLTchZI.npy",
+        "audio_id": 7297
+    },
+    {
+        "caption": "calm, relax, sleep, classical, lullaby",
+        "audio_path": "udThrlw_part_19.npy",
+        "audio_id": 7298
+    },
+    {
+        "caption": "anime japanese vgm, cute piano",
+        "audio_path": "B7qZNxZzWbM.npy",
+        "audio_id": 7299
+    },
+    {
+        "caption": "Happy, Joyful, Peaceful, Emotional, Relaxing, Healing, Concentration, Sleep",
+        "audio_path": "CeDaFGmAWIA.npy",
+        "audio_id": 7300
+    },
+    {
+        "caption": "hymn, lent",
+        "audio_path": "D9n4Ab9QY64.npy",
+        "audio_id": 7301
+    },
+    {
+        "caption": "background music, background piano, passionate",
+        "audio_path": "0g41h-DkmsI.npy",
+        "audio_id": 7302
+    },
+    {
+        "caption": "romantic, ballad, soft rock, emotional, reflective, nostalgic",
+        "audio_path": "PmtmEjcUq64.npy",
+        "audio_id": 7303
+    },
+    {
+        "caption": "elegant, sweet, Arabesque, artistic",
+        "audio_path": "BcP3wONHLB8.npy",
+        "audio_id": 7304
+    },
+    {
+        "caption": "['Easy', 'Education', 'Classes']",
+        "audio_path": "Up6fmhTz0K8.npy",
+        "audio_id": 7305
+    },
+    {
+        "caption": "drama, waltz, jazz, kpop, pop, ccm",
+        "audio_path": "b2LtpiAaSrI.npy",
+        "audio_id": 7306
+    },
+    {
+        "caption": "melancholic, reflective, intermediate-level, A-major, G-major",
+        "audio_path": "-syVMkAZuUI.npy",
+        "audio_id": 7307
+    },
+    {
+        "caption": "neo-classical, new age piano, happy",
+        "audio_path": "_hmWvE62vy8.npy",
+        "audio_id": 7308
+    },
+    {
+        "caption": "jazz, relaxing, piano, dinner, standard, cover, trio, New York, Village Vanguard",
+        "audio_path": "_DtpaxBT6SE.npy",
+        "audio_id": 7309
+    },
+    {
+        "caption": "jazz, swing, emotional, classic",
+        "audio_path": "n490gGBZQjw.npy",
+        "audio_id": 7310
+    },
+    {
+        "caption": "jazz, stride, bluesy, emotional, tutorial",
+        "audio_path": "peWnJOxtV4A.npy",
+        "audio_id": 7311
+    },
+    {
+        "caption": "K-pop, energetic, cover, emotional",
+        "audio_path": "AhIwlukaS50.npy",
+        "audio_id": 7312
+    },
+    {
+        "caption": "relaxing, classical, love, soothing, calming, beautiful, meditation, focus, study, reading, chill, lounge",
+        "audio_path": "ttN8fLz_part_4.npy",
+        "audio_id": 7313
+    },
+    {
+        "caption": "relaxing, classical, cozy, romantic, study, ambient, instrumental",
+        "audio_path": "Exz6rmm_part_18.npy",
+        "audio_id": 7314
+    },
+    {
+        "caption": "relaxing, meditation, chill, background music, study music",
+        "audio_path": "Om6x-WM_part_4.npy",
+        "audio_id": 7315
+    },
+    {
+        "caption": "spring, emotional, expressive, joyful",
+        "audio_path": "aC8zvO7t4bg.npy",
+        "audio_id": 7316
+    },
+    {
+        "caption": "relaxing, soothing, emotional, cafe, piano",
+        "audio_path": "w4f9Flz945A.npy",
+        "audio_id": 7317
+    },
+    {
+        "caption": "sad, emotional, cover",
+        "audio_path": "O4BM2Ir_part_2.npy",
+        "audio_id": 7318
+    },
+    {
+        "caption": "J-pop, ,",
+        "audio_path": "5Vw2RM0sr50.npy",
+        "audio_id": 7319
+    },
+    {
+        "caption": "classical, early romantic era, polish classical, intense, piano",
+        "audio_path": "775BU_iMI7A.npy",
+        "audio_id": 7320
+    },
+    {
+        "caption": "jazz, lounge, relaxing, cool, background, festive",
+        "audio_path": "4n14lcMHbPY.npy",
+        "audio_id": 7321
+    },
+    {
+        "caption": "calm, mysterious",
+        "audio_path": "YzMwPjpYImc.npy",
+        "audio_id": 7322
+    },
+    {
+        "caption": "jazz, funky, relaxing, wellness",
+        "audio_path": "UBNuoRuNEwg.npy",
+        "audio_id": 7323
+    },
+    {
+        "caption": "emotional, easy, video game, tutorial",
+        "audio_path": "USIjhBfxtKc.npy",
+        "audio_id": 7324
+    },
+    {
+        "caption": "Greek, melancholic, classical, ballet, rare, difficult",
+        "audio_path": "KjAoG-OnCw0.npy",
+        "audio_id": 7325
+    },
+    {
+        "caption": "relaxing, peaceful, ambient, soothing, chill, spiritual, meditation, yoga, study, background",
+        "audio_path": "EhO_MrR_part_1.npy",
+        "audio_id": 7326
+    },
+    {
+        "caption": "romantic, classical, relaxing, beautiful, love, peace",
+        "audio_path": "Opyyrkn_part_4.npy",
+        "audio_id": 7327
+    },
+    {
+        "caption": "cinematic, space, emotional, dramatic, evolving",
+        "audio_path": "2-LA7DEg9Qc.npy",
+        "audio_id": 7328
+    },
+    {
+        "caption": "classical, competition, intense, dramatic",
+        "audio_path": "fhaWT8ruE2w.npy",
+        "audio_id": 7329
+    },
+    {
+        "caption": "calm, relaxing, peaceful, soothing, meditation, sleep, romantic",
+        "audio_path": "Lp6XlsB_part_11.npy",
+        "audio_id": 7330
+    },
+    {
+        "caption": "classical, relaxing, sad, soft, calm, beautiful, romantic, instrumental",
+        "audio_path": "PM5wt7T_part_20.npy",
+        "audio_id": 7331
+    },
+    {
+        "caption": "calming, relaxing, meditation, sleep, study,",
+        "audio_path": "KoJSpup_part_2.npy",
+        "audio_id": 7332
+    },
+    {
+        "caption": "happy, calming, love,",
+        "audio_path": "bJM_sz-aANQ.npy",
+        "audio_id": 7333
+    },
+    {
+        "caption": "creepy, dark, ominous, scary, horror, suspenseful, frightening, eerie",
+        "audio_path": "ozPZ9vo_part_1.npy",
+        "audio_id": 7334
+    },
+    {
+        "caption": "ballad, jazz",
+        "audio_path": "fHmE7tNKXks.npy",
+        "audio_id": 7335
+    },
+    {
+        "caption": "jazz, blues, emotional",
+        "audio_path": "b_nMUSO62Bw.npy",
+        "audio_id": 7336
+    },
+    {
+        "caption": "old pop, calming, easy listening",
+        "audio_path": "H8sTGx4SQmI.npy",
+        "audio_id": 7337
+    },
+    {
+        "caption": "emotional, reflective, cinematic, Japanese",
+        "audio_path": "0GKAS6KwOAo.npy",
+        "audio_id": 7338
+    },
+    {
+        "caption": "romantic, love, beautiful, relaxing, classical, emotional, heartfelt, nostalgic, soothing, sentimental",
+        "audio_path": "qV8Ct3G_part_10.npy",
+        "audio_id": 7339
+    },
+    {
+        "caption": "compositional ambient, neo-classical, passionate piano",
+        "audio_path": "x1aReZsmVjw.npy",
+        "audio_id": 7340
+    },
+    {
+        "caption": "anime, calming, jazzy, piano",
+        "audio_path": "pPiHMg3oZQM.npy",
+        "audio_id": 7341
+    },
+    {
+        "caption": "epic, cinematic, dramatic, intense, emotional",
+        "audio_path": "vw0WT9NAZb8.npy",
+        "audio_id": 7342
+    },
+    {
+        "caption": "relaxing, sleep, stress relief, peaceful, healing, calm, soothing, meditation, positive energy",
+        "audio_path": "Ut2TOUz_part_12.npy",
+        "audio_id": 7343
+    },
+    {
+        "caption": "piano cover, calming, soothing",
+        "audio_path": "A3FUyLH573Q.npy",
+        "audio_id": 7344
+    },
+    {
+        "caption": "jazz, soul, calming, melodic",
+        "audio_path": "49vgYHDgToc.npy",
+        "audio_id": 7345
+    },
+    {
+        "caption": "Relaxing, Jazz, Blues, Improvisation, Healing",
+        "audio_path": "NNuCqR5m9h0.npy",
+        "audio_id": 7346
+    },
+    {
+        "caption": "happy, energetic, competitive, classical, amateur",
+        "audio_path": "glD9hAz8YLc.npy",
+        "audio_id": 7347
+    },
+    {
+        "caption": "romantic, relaxing, beautiful, classical, love",
+        "audio_path": "lqO6DRr_part_2.npy",
+        "audio_id": 7348
+    },
+    {
+        "caption": "otacore, cute piano, waltzy, catchy",
+        "audio_path": "BlA5HhJxZ8U.npy",
+        "audio_id": 7349
+    },
+    {
+        "caption": "dinner jazz, swing, relaxing, easy listening",
+        "audio_path": "qf7v8VtMlgM.npy",
+        "audio_id": 7350
+    },
+    {
+        "caption": "relaxing, beautiful, stress relief, studying, BGM",
+        "audio_path": "mzq1CJJ_part_4.npy",
+        "audio_id": 7351
+    },
+    {
+        "caption": "romantic, relaxing, classical, love, peaceful, soothing",
+        "audio_path": "BollykZ_part_14.npy",
+        "audio_id": 7352
+    },
+    {
+        "caption": "romantic, calming, easy-listening, pop",
+        "audio_path": "Vggi3Pf88D4.npy",
+        "audio_id": 7353
+    },
+    {
+        "caption": "romantic, relaxing, love, instrumental, beautiful, piano",
+        "audio_path": "jTP-g7k_part_6.npy",
+        "audio_id": 7354
+    },
+    {
+        "caption": "relaxing, classical, modern, pop, healing, love, desire, Christian, worship",
+        "audio_path": "O4wYbmKAJ2g.npy",
+        "audio_id": 7355
+    },
+    {
+        "caption": "classical, relaxing, peaceful, study, serene, nocturnal, dreamy, meditative, reflective, romantic, emotional, tranquil",
+        "audio_path": "WLWJy1e_part_8.npy",
+        "audio_id": 7356
+    },
+    {
+        "caption": "nostalgic, enchanting, cinematic, emotional, Japanese, instrumental",
+        "audio_path": "CYUYC0EMp3E.npy",
+        "audio_id": 7357
+    },
+    {
+        "caption": "jazz, standard, emotional, tutorial, cover, vocal",
+        "audio_path": "iKbtCnZzk9s.npy",
+        "audio_id": 7358
+    },
+    {
+        "caption": "emotional, beautiful, hip-hop, rap, RnB, covers, tutorials",
+        "audio_path": "oHTCK4m_part_3.npy",
+        "audio_id": 7359
+    },
+    {
+        "caption": "sad, mourning, relaxing, meditation, sleep, stress relief, study, background music",
+        "audio_path": "bRHMZ5p_part_3.npy",
+        "audio_id": 7360
+    },
+    {
+        "caption": "melancholic, reflective, minimalist, classical, cinematic",
+        "audio_path": "evZwpQfHhk4.npy",
+        "audio_id": 7361
+    },
+    {
+        "caption": "Jazz, Bebop, Swing, Improvisation,",
+        "audio_path": "iBkDXPrDWlo.npy",
+        "audio_id": 7362
+    },
+    {
+        "caption": "Dark, Despair, Hope, Dramatic, Halloween, Winter",
+        "audio_path": "JtoFDezMCuw.npy",
+        "audio_id": 7363
+    },
+    {
+        "caption": "inspirational, worship, religious, beginner-friendly, easy-listening, contemporary Christian",
+        "audio_path": "3NAOk3NjQ94.npy",
+        "audio_id": 7364
+    },
+    {
+        "caption": "Bossa Nova, autumn, soothing",
+        "audio_path": "warE8K85j5Q.npy",
+        "audio_id": 7365
+    },
+    {
+        "caption": "['anime', 'tutorial', 'easy', 'educational']",
+        "audio_path": "B5azijr1yNA.npy",
+        "audio_id": 7366
+    },
+    {
+        "caption": "jazz, classic",
+        "audio_path": "nUdzMKCOImM.npy",
+        "audio_id": 7367
+    },
+    {
+        "caption": "K-pop, Pop Rock, Funk, Retro",
+        "audio_path": "ppdUqBQPBeo.npy",
+        "audio_id": 7368
+    },
+    {
+        "caption": "romantic, classical, hard, difficult, tutorial",
+        "audio_path": "TGLvlQrPl1k.npy",
+        "audio_id": 7369
+    },
+    {
+        "caption": "jazz, samba, Brazilian, Latin,",
+        "audio_path": "eZA0tNTnufs.npy",
+        "audio_id": 7370
+    },
+    {
+        "caption": "nostalgic, reflective, soothing, pop",
+        "audio_path": "2XX9nq6nFt8.npy",
+        "audio_id": 7371
+    },
+    {
+        "caption": "independent, sincere, contemporary, passionate, raw, relaxed",
+        "audio_path": "Enxo8_EzG0c.npy",
+        "audio_id": 7372
+    },
+    {
+        "caption": "easy listening, new age, contemporary, relaxing",
+        "audio_path": "XcOWrctFrkM.npy",
+        "audio_id": 7373
+    },
+    {
+        "caption": "patriotic, emotional, cinematic, heartfelt, epic, Bollywood, instrumental, cover, karaoke",
+        "audio_path": "PfygC0D-Lg4.npy",
+        "audio_id": 7374
+    },
+    {
+        "caption": "beautiful, relaxing, romantic, calming, peaceful, classical, love",
+        "audio_path": "5IWb1Kb_part_5.npy",
+        "audio_id": 7375
+    },
+    {
+        "caption": "nostalgic, whimsical, cinematic, romantic",
+        "audio_path": "5u5oCjrIu60.npy",
+        "audio_id": 7376
+    },
+    {
+        "caption": "Latin, piano cover, relaxing, romantic",
+        "audio_path": "bnGx7EBwJbg.npy",
+        "audio_id": 7377
+    },
+    {
+        "caption": "neo-classical, passionate, relaxing, calm, peaceful",
+        "audio_path": "s35g0wdZOO8.npy",
+        "audio_id": 7378
+    },
+    {
+        "caption": "classical, competitive, dramatic, intense, historical",
+        "audio_path": "P_gPAZ6ZzOw.npy",
+        "audio_id": 7379
+    },
+    {
+        "caption": "romantic, classical, elegant, expressive, nostalgic",
+        "audio_path": "11FrFsuTPg0.npy",
+        "audio_id": 7380
+    },
+    {
+        "caption": "emotional, captivating, difficult, indie",
+        "audio_path": "SRi7LWHjfOU.npy",
+        "audio_id": 7381
+    },
+    {
+        "caption": "relaxing, classical, love, beautiful, romantic",
+        "audio_path": "hDm1BKO_part_9.npy",
+        "audio_id": 7382
+    },
+    {
+        "caption": "blues, jazz, improvisation, soulful, American",
+        "audio_path": "VlF9IVV12QE.npy",
+        "audio_id": 7383
+    },
+    {
+        "caption": "emotional, dramatic, tutorial, cover, Korean",
+        "audio_path": "yYIB0y-YU14.npy",
+        "audio_id": 7384
+    },
+    {
+        "caption": "calming, soothing, peaceful, classical, lullaby, sleep, relax, gentle",
+        "audio_path": "udThrlw_part_9.npy",
+        "audio_id": 7385
+    },
+    {
+        "caption": "relaxing, calm, nostalgic, ambient, peaceful",
+        "audio_path": "J2SMI3v_part_6.npy",
+        "audio_id": 7386
+    },
+    {
+        "caption": "calming, soothing, relaxing, happy, classical, bedtime, naptime, lullaby, sleep",
+        "audio_path": "fiooocF_part_10.npy",
+        "audio_id": 7387
+    },
+    {
+        "caption": "emotional, lyrical, cover, pop",
+        "audio_path": "YzmQ6vsXW9k.npy",
+        "audio_id": 7388
+    },
+    {
+        "caption": "sad, soothing, relaxing, calm, stress relief, sleep, meditation",
+        "audio_path": "lt79FaR_part_1.npy",
+        "audio_id": 7389
+    },
+    {
+        "caption": "relaxing, calming, nostalgic, ambient, peaceful",
+        "audio_path": "J2SMI3v_part_14.npy",
+        "audio_id": 7390
+    },
+    {
+        "caption": "classical, challenging, majestic",
+        "audio_path": "MZZscQduMAg.npy",
+        "audio_id": 7391
+    },
+    {
+        "caption": "classical, energetic, lively, upbeat",
+        "audio_path": "dSpOUXEvdsE.npy",
+        "audio_id": 7392
+    },
+    {
+        "caption": "relaxing, calm, peaceful, meditation, sleep, soothing, study",
+        "audio_path": "cAKzcCu_part_1.npy",
+        "audio_id": 7393
+    },
+    {
+        "caption": "relaxing, romantic, jazz, cover,",
+        "audio_path": "LFG0YLiqHHE.npy",
+        "audio_id": 7394
+    },
+    {
+        "caption": "nostalgic, retro, K-Pop, arranged",
+        "audio_path": "Llib-XYUctk.npy",
+        "audio_id": 7395
+    },
+    {
+        "caption": "cinematic, emotional, classical, film music,",
+        "audio_path": "pZAZ2x-KNf0.npy",
+        "audio_id": 7396
+    },
+    {
+        "caption": "jazz, cinematic, upbeat, film-music",
+        "audio_path": "zfHxSc4T1Hw.npy",
+        "audio_id": 7397
+    },
+    {
+        "caption": "intense, dramatic, classical, challenging",
+        "audio_path": "tKxHMsNmjD8.npy",
+        "audio_id": 7398
+    },
+    {
+        "caption": "classical, dark, instrumental, synthetic",
+        "audio_path": "cJiD0NSBilw.npy",
+        "audio_id": 7399
+    },
+    {
+        "caption": "romantic, relaxing, classical, love",
+        "audio_path": "hPCI_TP_part_2.npy",
+        "audio_id": 7400
+    },
+    {
+        "caption": "J-pop, romantic, emotional",
+        "audio_path": "hFUTe1yLynY.npy",
+        "audio_id": 7401
+    },
+    {
+        "caption": "emotional, tutorial, cinematic",
+        "audio_path": "4cFOEfbp9EM.npy",
+        "audio_id": 7402
+    },
+    {
+        "caption": "romantic, nostalgic, cinematic, emotional",
+        "audio_path": "JT1XJnVmABo.npy",
+        "audio_id": 7403
+    },
+    {
+        "caption": "epic, cinematic, dramatic, tutorial",
+        "audio_path": "UOvlDN8gFOs.npy",
+        "audio_id": 7404
+    },
+    {
+        "caption": "opera, virtuosic, demanding, high, rage, terrifying, dramatic, intense",
+        "audio_path": "IadMiijgNFo.npy",
+        "audio_id": 7405
+    },
+    {
+        "caption": "ragtime, improvisation, upbeat, lively",
+        "audio_path": "ghRDYWdkcRI.npy",
+        "audio_id": 7406
+    },
+    {
+        "caption": "sad, emotional, relaxing, beautiful",
+        "audio_path": "1cgO42sh-ZY.npy",
+        "audio_id": 7407
+    },
+    {
+        "caption": "easy, relaxing, tutorial, satisfying, ASMR",
+        "audio_path": "ZddgsTmovbk.npy",
+        "audio_id": 7408
+    },
+    {
+        "caption": "healing, relaxing, ballad",
+        "audio_path": "xQu7aqxmZ8Q.npy",
+        "audio_id": 7409
+    },
+    {
+        "caption": "romantic, relaxing, love",
+        "audio_path": "s0KyLJG_part_2.npy",
+        "audio_id": 7410
+    },
+    {
+        "caption": "relaxing, beautiful, romantic, classical, calming, peaceful, love",
+        "audio_path": "5IWb1Kb_part_3.npy",
+        "audio_id": 7411
+    },
+    {
+        "caption": "jazz, improvisation,",
+        "audio_path": "J4W8w8pky2Q.npy",
+        "audio_id": 7412
+    },
+    {
+        "caption": "romantic, jazz, light jazz, rhythmic",
+        "audio_path": "yL6Y4fWwO6E.npy",
+        "audio_id": 7413
+    },
+    {
+        "caption": "jazz, creepy, Christmas, festive, cheerful",
+        "audio_path": "GfdvgxomOTM.npy",
+        "audio_id": 7414
+    },
+    {
+        "caption": "romantic, beautiful, relaxing, happy, sad, love, soothing, unforgettable, passion, joy, classics, timeless",
+        "audio_path": "9k-NCBB_part_6.npy",
+        "audio_id": 7415
+    },
+    {
+        "caption": "classical, late romantic era, norwegian classical, uplifting, light, positive",
+        "audio_path": "xUCKtnWXWy4.npy",
+        "audio_id": 7416
+    },
+    {
+        "caption": "holiday, festive, warm, nostalgic, traditional",
+        "audio_path": "sCqcEJZGtMY.npy",
+        "audio_id": 7417
+    },
+    {
+        "caption": "romantic, relaxing, classic, love",
+        "audio_path": "MYroNHk_part_7.npy",
+        "audio_id": 7418
+    },
+    {
+        "caption": "jazz, blues, improvisation, practice",
+        "audio_path": "BaGo2cSiMFY.npy",
+        "audio_id": 7419
+    },
+    {
+        "caption": "romantic, cheerful, energetic, K-pop",
+        "audio_path": "H2HcLMUW87M.npy",
+        "audio_id": 7420
+    },
+    {
+        "caption": "prenatal, piano, fresh, emotion",
+        "audio_path": "0oDZAEruJ8o.npy",
+        "audio_id": 7421
+    },
+    {
+        "caption": "Ragtime, Blues, Jazz, Atonal, Middle Eastern, Contemporary, Dance, Syncopated, Bumpy, African American, British",
+        "audio_path": "21Uv-w13GF4.npy",
+        "audio_id": 7422
+    },
+    {
+        "caption": "energetic, piano",
+        "audio_path": "GlCJBElySoE.npy",
+        "audio_id": 7423
+    },
+    {
+        "caption": "romantic, relaxing, love, beautiful, classic, timeless, emotional, nostalgic",
+        "audio_path": "52SSPI1_part_6.npy",
+        "audio_id": 7424
+    },
+    {
+        "caption": "New Age, Sad, Depressed, Healing",
+        "audio_path": "wgJybjeFAAo_part_24.npy",
+        "audio_id": 7425
+    },
+    {
+        "caption": "anime, emotional, melancholic",
+        "audio_path": "1XSi5JkHtMk.npy",
+        "audio_id": 7426
+    },
+    {
+        "caption": "classical, relaxing, study, concentration, calming, tragic",
+        "audio_path": "VB6SIKl_part_18.npy",
+        "audio_id": 7427
+    },
+    {
+        "caption": "emotional, sad, ambient, relaxing, dramatic, uplifting, melancholy, healing, beautiful, melodic, epic, calming, inspirational, ASMR",
+        "audio_path": "3GZDlDa_part_2.npy",
+        "audio_id": 7428
+    },
+    {
+        "caption": "jazz, ballad, romantic",
+        "audio_path": "IvYU_PS07Ws.npy",
+        "audio_id": 7429
+    },
+    {
+        "caption": "classical, emotional, romantic",
+        "audio_path": "frirFs3IiL4.npy",
+        "audio_id": 7430
+    },
+    {
+        "caption": "Jazz, Stride, Swing, Classic, Roaring Twenties, Syncopation, Solo",
+        "audio_path": "VSSTBQf7GI4.npy",
+        "audio_id": 7431
+    },
+    {
+        "caption": "jazz, romantic, chill, cover, standard",
+        "audio_path": "ZweWAX6sbXs.npy",
+        "audio_id": 7432
+    },
+    {
+        "caption": "K-Pop, retro, ,",
+        "audio_path": "Gvbi-GhwGqQ.npy",
+        "audio_id": 7433
+    },
+    {
+        "caption": "jazz, relaxing, blues",
+        "audio_path": "W8ybvqmQzgc.npy",
+        "audio_id": 7434
+    },
+    {
+        "caption": "heroic, emotional, cinematic, inspirational, orchestral",
+        "audio_path": "cPUqFsO9MbU.npy",
+        "audio_id": 7435
+    },
+    {
+        "caption": "ragtime, dating, cheerful, lively, historical",
+        "audio_path": "m_zjhL0Iwik.npy",
+        "audio_id": 7436
+    },
+    {
+        "caption": "relaxation, gentle, expressive, fluid, delicate, melancholy, hopefulness, peaceful, serene, calming, meditation, stress relief, tranquility",
+        "audio_path": "1p7jSmz_part_7.npy",
+        "audio_id": 7437
+    },
+    {
+        "caption": "blues, melancholic, classic",
+        "audio_path": "_M82hIlg6Wo.npy",
+        "audio_id": 7438
+    },
+    {
+        "caption": "romantic, jazz, ballad, improvisation, cover, emotional, melodic",
+        "audio_path": "iU5EYjxFaqQ.npy",
+        "audio_id": 7439
+    },
+    {
+        "caption": "relaxing, piano, cover, romantic, emotional, soothing",
+        "audio_path": "jAEjfiO_part_6.npy",
+        "audio_id": 7440
+    },
+    {
+        "caption": "Eastern, difficult, animated, waltz, death",
+        "audio_path": "I99Hntl0Etg.npy",
+        "audio_id": 7441
+    },
+    {
+        "caption": "Christmas, jazz,",
+        "audio_path": "8uqvx0PQRe8.npy",
+        "audio_id": 7442
+    },
+    {
+        "caption": "melancholic, acoustic, romantic, introspective, somber, dramatic",
+        "audio_path": "LR6OWNbEVWU.npy",
+        "audio_id": 7443
+    },
+    {
+        "caption": "Disney, challenging, emotional, orchestral, fantasy, longing, adventurous",
+        "audio_path": "3ldz9oFM4FE.npy",
+        "audio_id": 7444
+    },
+    {
+        "caption": "romantic, classical, relaxing, peaceful",
+        "audio_path": "AOVgSWQ_part_3.npy",
+        "audio_id": 7445
+    },
+    {
+        "caption": "blues, relaxing, midnight",
+        "audio_path": "2nuUiZGvKTc.npy",
+        "audio_id": 7446
+    },
+    {
+        "caption": "romantic, relaxation, classic, love, beautiful, timeless",
+        "audio_path": "brM1Ngj_part_3.npy",
+        "audio_id": 7447
+    },
+    {
+        "caption": "romantic, classic, beautiful, relaxing, love, timeless, heart-warming, emotional, famous, compilation",
+        "audio_path": "826gtos_part_12.npy",
+        "audio_id": 7448
+    },
+    {
+        "caption": "romantic, sentimental, easy-listening, classic-rock",
+        "audio_path": "7LEpbLUM9_E.npy",
+        "audio_id": 7449
+    },
+    {
+        "caption": "romantic, ballad, calm, soothing, sentimental",
+        "audio_path": "8wagEduyQnI.npy",
+        "audio_id": 7450
+    },
+    {
+        "caption": "relaxing, peaceful, soft, sleep",
+        "audio_path": "KviGlA0_part_8.npy",
+        "audio_id": 7451
+    },
+    {
+        "caption": "relaxing, beautiful, meditation, miracles, calm, deep sleep",
+        "audio_path": "Zp3Z5_5_part_8.npy",
+        "audio_id": 7452
+    },
+    {
+        "caption": "nostalgic, playful, video game music, cute",
+        "audio_path": "ZYyR21CQUUU.npy",
+        "audio_id": 7453
+    },
+    {
+        "caption": "new age, piano piano, new age classical, triumph, achievement, accomplishment",
+        "audio_path": "OaVN4Hwyq4g.npy",
+        "audio_id": 7454
+    },
+    {
+        "caption": "KPop, accompaniment, practice, famous, tempo",
+        "audio_path": "O2euZ2gZU-U.npy",
+        "audio_id": 7455
+    },
+    {
+        "caption": "classical, playful, competitive, vibrant, energetic",
+        "audio_path": "pQuyqkNSAPM.npy",
+        "audio_id": 7456
+    },
+    {
+        "caption": "romantic, love, beautiful, heartfelt, relaxing, happy, sad",
+        "audio_path": "7YbUoHL_part_5.npy",
+        "audio_id": 7457
+    },
+    {
+        "caption": "confused, dream-like, calming, modern classical, new age, relaxing",
+        "audio_path": "p-uoTAJUHgo.npy",
+        "audio_id": 7458
+    },
+    {
+        "caption": "Jazz, Classic, Classic Jazz, Piano Jazz",
+        "audio_path": "LGjxyj8n7Ho.npy",
+        "audio_id": 7459
+    },
+    {
+        "caption": "romantic, beautiful, relaxing, joy, love, happy, sad",
+        "audio_path": "1Ez-p6x_part_13.npy",
+        "audio_id": 7460
+    },
+    {
+        "caption": "easy listening, new age, contemporary, relaxing",
+        "audio_path": "WFDOSYzoAs8.npy",
+        "audio_id": 7461
+    },
+    {
+        "caption": "overplayed, classical, hip-hop, emotional, popular",
+        "audio_path": "dCSdrRbW-2w.npy",
+        "audio_id": 7462
+    },
+    {
+        "caption": "jazz, free, tutorial, standards, pops, theory,",
+        "audio_path": "E5xZhsJCBzQ.npy",
+        "audio_id": 7463
+    },
+    {
+        "caption": "classical, relaxation, comfort, serenity, emotional, soothing",
+        "audio_path": "eFJdrR0_part_1.npy",
+        "audio_id": 7464
+    },
+    {
+        "caption": "relaxing, peaceful, beautiful, sleep, healing",
+        "audio_path": "Ex1RWBV_part_12.npy",
+        "audio_id": 7465
+    },
+    {
+        "caption": "jazz, bossa nova, swing, advanced,",
+        "audio_path": "ue0SknCkIag.npy",
+        "audio_id": 7466
+    },
+    {
+        "caption": "Japanese, jazz, battle, detective, energetic",
+        "audio_path": "qpNE_704Dpc.npy",
+        "audio_id": 7467
+    },
+    {
+        "caption": "new age, relaxing, meditation, healing, lounge, jazz, smooth jazz, bossa nova",
+        "audio_path": "t71qU7ruE7k_part_18.npy",
+        "audio_id": 7468
+    },
+    {
+        "caption": "ballad, jazz, standard,",
+        "audio_path": "90QLvaWjMwc.npy",
+        "audio_id": 7469
+    },
+    {
+        "caption": "inspirational, calming, intermediate-level, cover",
+        "audio_path": "5LrCDnfHpik.npy",
+        "audio_id": 7470
+    },
+    {
+        "caption": "Italian, resistance, folk, emotional, tutorial",
+        "audio_path": "oZiAyVaYPWI.npy",
+        "audio_id": 7471
+    },
+    {
+        "caption": "romantic, classic, relaxing, love, beautiful",
+        "audio_path": "SYn6NBd_part_11.npy",
+        "audio_id": 7472
+    },
+    {
+        "caption": "romantic, classical, relaxing, beautiful, love, timeless, warm, heart-melting, emotional",
+        "audio_path": "826gtos_part_4.npy",
+        "audio_id": 7473
+    },
+    {
+        "caption": "sad, dark, emotional, creepy, horror, Christmas",
+        "audio_path": "RcmwcHVm_tU.npy",
+        "audio_id": 7474
+    },
+    {
+        "caption": ", Worship, Christian, Relaxing, Soaking",
+        "audio_path": "zROSAak_part_8.npy",
+        "audio_id": 7475
+    },
+    {
+        "caption": "relaxing, peaceful, soft, sleep",
+        "audio_path": "KviGlA0_part_22.npy",
+        "audio_id": 7476
+    },
+    {
+        "caption": "Jazz, Swing, Stride, Early Jazz, Jazz",
+        "audio_path": "_KSiju8N8JM.npy",
+        "audio_id": 7477
+    },
+    {
+        "caption": "joyful, nostalgic, rhythmic, American",
+        "audio_path": "cO0gj7qpR_c.npy",
+        "audio_id": 7478
+    },
+    {
+        "caption": "easy, classical, accessible, tutorial",
+        "audio_path": "HALAn0dKhX8.npy",
+        "audio_id": 7479
+    },
+    {
+        "caption": "romantic, relaxing, sweet, covers",
+        "audio_path": "wmFz6CD_part_3.npy",
+        "audio_id": 7480
+    },
+    {
+        "caption": "romantic, love, beautiful, relaxing, happy, sad",
+        "audio_path": "IhmILPl_part_7.npy",
+        "audio_id": 7481
+    },
+    {
+        "caption": "romantic, expressive, melodic, soothing",
+        "audio_path": "02NJU-sh3TI.npy",
+        "audio_id": 7482
+    },
+    {
+        "caption": "romantic, relaxing, beautiful, love, classical, emotional",
+        "audio_path": "aBbacfH_part_13.npy",
+        "audio_id": 7483
+    },
+    {
+        "caption": "romantic, relaxing, stress relief, calm, peaceful, beautiful, meditation, serenity, piano, classical, love songs",
+        "audio_path": "DAB7Nqr_part_4.npy",
+        "audio_id": 7484
+    },
+    {
+        "caption": "Jazz, Bebop, Blues, Swing, Relaxing, Healing",
+        "audio_path": "5DUKK_v8z68.npy",
+        "audio_id": 7485
+    },
+    {
+        "caption": "Fast, Happy, Piano",
+        "audio_path": "l-xVLTcGaI0.npy",
+        "audio_id": 7486
+    },
+    {
+        "caption": "blues, live, African",
+        "audio_path": "uOFQPv44A4s.npy",
+        "audio_id": 7487
+    },
+    {
+        "caption": "K-pop, energetic, upbeat, joyful, pop, cover",
+        "audio_path": "m87gPjvUqCo.npy",
+        "audio_id": 7488
+    },
+    {
+        "caption": "relaxing, jazz,",
+        "audio_path": "K92MY1Aooz0.npy",
+        "audio_id": 7489
+    },
+    {
+        "caption": "relaxing, comfortable, healing, deep sleep, animated movie, magic",
+        "audio_path": "VRiiYOA_part_33.npy",
+        "audio_id": 7490
+    },
+    {
+        "caption": "Retro, K-Pop, Emotional",
+        "audio_path": "Zjdkxt_KSD4.npy",
+        "audio_id": 7491
+    },
+    {
+        "caption": "relaxing, beautiful, calm, soft, emotional, romantic, meditation, sleep, study, spa, yoga",
+        "audio_path": "W5tDRMLpnqw.npy",
+        "audio_id": 7492
+    },
+    {
+        "caption": "romantic, wedding, soft, emotional, ballad",
+        "audio_path": "lY1InHqbwwI.npy",
+        "audio_id": 7493
+    },
+    {
+        "caption": "easy, tutorial, learning",
+        "audio_path": "0IXayrxYCf0.npy",
+        "audio_id": 7494
+    },
+    {
+        "caption": "classical, passionate, traditional",
+        "audio_path": "fo7KwpMrPnU.npy",
+        "audio_id": 7495
+    },
+    {
+        "caption": "jazz, classic",
+        "audio_path": "sWuGSgdXAGg.npy",
+        "audio_id": 7496
+    },
+    {
+        "caption": "romantic, relaxing, beautiful, love, sweet, happy, sad",
+        "audio_path": "eG-cFNR_part_10.npy",
+        "audio_id": 7497
+    },
+    {
+        "caption": "relaxing, peaceful, instrumental, piano, spiritual, study, meditation, background, yoga, ambient, chill, slow, soothing",
+        "audio_path": "EhO_MrR_part_6.npy",
+        "audio_id": 7498
+    },
+    {
+        "caption": "sentimental, cover,",
+        "audio_path": "I6BUp842hpo.npy",
+        "audio_id": 7499
+    },
+    {
+        "caption": "easy, tutorial, cover,",
+        "audio_path": "xUTikCiZ0Hw.npy",
+        "audio_id": 7500
+    },
+    {
+        "caption": "relaxing, peaceful, soft, sleep",
+        "audio_path": "KviGlA0_part_35.npy",
+        "audio_id": 7501
+    },
+    {
+        "caption": "otacore, cute piano, Zelda, piano",
+        "audio_path": "_Up36xNEfpQ.npy",
+        "audio_id": 7502
+    },
+    {
+        "caption": "Christian, worship, praise, cover",
+        "audio_path": "P_-remdGdeQ.npy",
+        "audio_id": 7503
+    },
+    {
+        "caption": "relaxing, epic, tutorial,",
+        "audio_path": "ViwyU9rlOw0.npy",
+        "audio_id": 7504
+    },
+    {
+        "caption": "Christmas, festive, winter, medley, hymn, nostalgic, cinematic, joyful, traditional, pop",
+        "audio_path": "S1C54q_Zke4.npy",
+        "audio_id": 7505
+    },
+    {
+        "caption": "romantic, nostalgic, relaxing, beautiful, love, classic, 70s, 80s, 90s",
+        "audio_path": "6TmxUKp_part_10.npy",
+        "audio_id": 7506
+    },
+    {
+        "caption": "relaxing, beautiful, romantic, classical, concentration, focus, love, reading, studying, relaxation, sleep",
+        "audio_path": "LknaI5-_part_11.npy",
+        "audio_id": 7507
+    },
+    {
+        "caption": "nostalgic, serene, cinematic, emotional,",
+        "audio_path": "1QVqhiGs2Cs.npy",
+        "audio_id": 7508
+    },
+    {
+        "caption": "Japanese, cover, emotional, soothing, reflective",
+        "audio_path": "IfQp_eU3ZIU.npy",
+        "audio_id": 7509
+    },
+    {
+        "caption": "tutorial, intermediate",
+        "audio_path": "VtQmkMTLWxw.npy",
+        "audio_id": 7510
+    },
+    {
+        "caption": "new age, calming, soothing, Christmas",
+        "audio_path": "ZqI6-RubsoE.npy",
+        "audio_id": 7511
+    },
+    {
+        "caption": "romantic, classical, relaxing, beautiful, love, peace, heart-melting",
+        "audio_path": "Opyyrkn_part_3.npy",
+        "audio_id": 7512
+    },
+    {
+        "caption": "Jazz, Blues, Swing, Relaxing, Healing, Improvisation,",
+        "audio_path": "iZ3HD4fOpn4.npy",
+        "audio_id": 7513
+    },
+    {
+        "caption": "New Age, Neoclassical, Theme Music",
+        "audio_path": "CPsRVdVNTgA.npy",
+        "audio_id": 7514
+    },
+    {
+        "caption": "romantic, beautiful, relaxing, happy, sad",
+        "audio_path": "Uo7qBf5_part_6.npy",
+        "audio_id": 7515
+    },
+    {
+        "caption": "new age piano, epic, passionate",
+        "audio_path": "Ugb8m41Mtkc.npy",
+        "audio_id": 7516
+    },
+    {
+        "caption": "compositional ambient, cute, soloist",
+        "audio_path": "fsDZqNLBfNo.npy",
+        "audio_id": 7517
+    },
+    {
+        "caption": "intense, emotional, anime,",
+        "audio_path": "ZvVxZKmfGeU.npy",
+        "audio_id": 7518
+    },
+    {
+        "caption": "nostalgic, beautiful, easy-listening, cinematic, soothing",
+        "audio_path": "rIPnzXvk6Ok.npy",
+        "audio_id": 7519
+    },
+    {
+        "caption": "romantic, beautiful, classic, relaxing, love",
+        "audio_path": "KbAEQzP_part_8.npy",
+        "audio_id": 7520
+    },
+    {
+        "caption": "dubstep, uncertainty, lonely",
+        "audio_path": "TmJ2QRGghtY.npy",
+        "audio_id": 7521
+    },
+    {
+        "caption": "hip-hop, playful, competitive",
+        "audio_path": "f12QBYlCafw.npy",
+        "audio_id": 7522
+    },
+    {
+        "caption": "playful",
+        "audio_path": "DMQ0rhhNUSM.npy",
+        "audio_id": 7523
+    },
+    {
+        "caption": "sad, emotional, piano, strings",
+        "audio_path": "wRc98-FHQ-0.npy",
+        "audio_id": 7524
+    },
+    {
+        "caption": "romantic, relaxing, classical, beautiful, concentration, focus, sleep",
+        "audio_path": "LknaI5-_part_3.npy",
+        "audio_id": 7525
+    },
+    {
+        "caption": "lds, lds joyful, piano, beautiful, happy, upbeat melodies",
+        "audio_path": "J7c4VK-ywcg.npy",
+        "audio_id": 7526
+    },
+    {
+        "caption": "jazz, intermediate, advanced, fun, easy",
+        "audio_path": "b1oAFfC0P8w.npy",
+        "audio_id": 7527
+    },
+    {
+        "caption": "jazz, blues, improvisation, tutorials, lessons, advanced, intermediate, beginner, emotional, practice, challenge",
+        "audio_path": "yr76Fnu0qhM.npy",
+        "audio_id": 7528
+    },
+    {
+        "caption": "fast-paced, challenging, intense, contrast",
+        "audio_path": "_jxegEu0ZWI.npy",
+        "audio_id": 7529
+    },
+    {
+        "caption": "relaxing, peaceful, calm, soothing, stress relief, meditation, study, wake up, guitar, piano",
+        "audio_path": "IYeuBSE_part_8.npy",
+        "audio_id": 7530
+    },
+    {
+        "caption": "inspirational, hopeful, cinematic, ballad",
+        "audio_path": "BlCH9vJkKvw.npy",
+        "audio_id": 7531
+    },
+    {
+        "caption": "classical, love songs, romantic, relaxing, 70s, 80s, 90s",
+        "audio_path": "yxhpzB8_part_11.npy",
+        "audio_id": 7532
+    },
+    {
+        "caption": "classical, early romantic era, polish classical, intense, emotional",
+        "audio_path": "hBoYWTMH__I.npy",
+        "audio_id": 7533
+    },
+    {
+        "caption": "dark, beautiful, medley, compilation, covers",
+        "audio_path": "3i9TmR0_part_4.npy",
+        "audio_id": 7534
+    },
+    {
+        "caption": "romantic, relaxing, beautiful, calming, classical, love",
+        "audio_path": "5IWb1Kb_part_1.npy",
+        "audio_id": 7535
+    },
+    {
+        "caption": "calm, relax, sleep, lullaby, classical, soothing, gentle",
+        "audio_path": "udThrlw_part_2.npy",
+        "audio_id": 7536
+    },
+    {
+        "caption": "romantic, soothing, calming, love, relaxing, beautiful, classical, sad, happy",
+        "audio_path": "PNIstQJ_part_5.npy",
+        "audio_id": 7537
+    },
+    {
+        "caption": "anime piano, cute piano, playful, cheerful, light-hearted",
+        "audio_path": "UkLJl8lEChY.npy",
+        "audio_id": 7538
+    },
+    {
+        "caption": "synthesizer, atmospheric, eerie, suspenseful, cinematic",
+        "audio_path": "NNiClXFPJls.npy",
+        "audio_id": 7539
+    },
+    {
+        "caption": "piano cover, emotional, soothing",
+        "audio_path": "jAdNZkx3v3E.npy",
+        "audio_id": 7540
+    },
+    {
+        "caption": "HipHop, Gangsta rap, Synthetic",
+        "audio_path": "hJ7a6gfWDqg.npy",
+        "audio_id": 7541
+    },
+    {
+        "caption": "classical, passionate, learning, improvement",
+        "audio_path": "b4zuWNEtR1s.npy",
+        "audio_id": 7542
+    },
+    {
+        "caption": "nostalgic, emotional, cinematic, game music, cover, Korean pop, pop, contemporary Christian music, jazz",
+        "audio_path": "Z3UWh3tuHkA.npy",
+        "audio_id": 7543
+    },
+    {
+        "caption": "relaxation, stress relief, sleep, meditation, spa, yoga, calming, ambient, serenity, zen, studying, soothing, peaceful, chillout, nature sounds, deep sleep, water sound",
+        "audio_path": "YhL_o8q_part_10.npy",
+        "audio_id": 7544
+    },
+    {
+        "caption": "romantic, relaxing, classic, love",
+        "audio_path": "kkFy3KE_part_5.npy",
+        "audio_id": 7545
+    },
+    {
+        "caption": "jazz, cinematic, soothing",
+        "audio_path": "1G9EQFow83M.npy",
+        "audio_id": 7546
+    },
+    {
+        "caption": "Mambo, cheerful, lively, dance, Latin",
+        "audio_path": "sOnQ5Ie-ceQ.npy",
+        "audio_id": 7547
+    },
+    {
+        "caption": "upbeat, joyful, energetic, pop, dance",
+        "audio_path": "GIZelQ5i1tw.npy",
+        "audio_id": 7548
+    },
+    {
+        "caption": "sentimental, soothing, nostalgic, cover, elementary",
+        "audio_path": "z6jCeX_S9-A.npy",
+        "audio_id": 7549
+    },
+    {
+        "caption": "piano cover",
+        "audio_path": "roeBP5xnXRY.npy",
+        "audio_id": 7550
+    },
+    {
+        "caption": "Jazz, Standards, Healing, Relaxing, Jazz Blues, Free",
+        "audio_path": "wTyzqS3BPUI.npy",
+        "audio_id": 7551
+    },
+    {
+        "caption": ", piano, accompaniment",
+        "audio_path": "lSI38luLXDE.npy",
+        "audio_id": 7552
+    },
+    {
+        "caption": "romantic, relaxing, love, beautiful",
+        "audio_path": "jTP-g7k_part_4.npy",
+        "audio_id": 7553
+    },
+    {
+        "caption": "Bossa Nova, Christmas, soothing, festive",
+        "audio_path": "ekdoqHh0f68.npy",
+        "audio_id": 7554
+    },
+    {
+        "caption": "sad, relaxing, classical, emotional,",
+        "audio_path": "Am9jAnV_part_2.npy",
+        "audio_id": 7555
+    },
+    {
+        "caption": "emotional, reflective, K-pop",
+        "audio_path": "pxZ1lTWa8T8.npy",
+        "audio_id": 7556
+    },
+    {
+        "caption": "jazz, piano, solo, hallucinatory",
+        "audio_path": "8d81v24QQDQ.npy",
+        "audio_id": 7557
+    },
+    {
+        "caption": "classical, intense, emotional",
+        "audio_path": "27vua2MFxfI.npy",
+        "audio_id": 7558
+    },
+    {
+        "caption": "romantic, easy-listening, tutorial",
+        "audio_path": "Jlb7Iua5ouE.npy",
+        "audio_id": 7559
+    },
+    {
+        "caption": "jazz, improvisation,",
+        "audio_path": "rgOY4KcE5Gc.npy",
+        "audio_id": 7560
+    },
+    {
+        "caption": "energetic, playful, nostalgic, uplifting, fast-paced",
+        "audio_path": "jIA5h9pFZMk.npy",
+        "audio_id": 7561
+    },
+    {
+        "caption": "synthetic, easy",
+        "audio_path": "AdJBoezsr2E.npy",
+        "audio_id": 7562
+    },
+    {
+        "caption": "heroic, epic, inspirational",
+        "audio_path": "FEmpXe835LQ.npy",
+        "audio_id": 7563
+    },
+    {
+        "caption": "calming, classical, soothing, relaxing, happy, lullaby, bedtime, naptime, sweet",
+        "audio_path": "fiooocF_part_4.npy",
+        "audio_id": 7564
+    },
+    {
+        "caption": "haunting, horror, Bollywood,",
+        "audio_path": "3-ncuyl1ZFo.npy",
+        "audio_id": 7565
+    },
+    {
+        "caption": "romantic, easy-listening, cover,",
+        "audio_path": "QrxtatJ60yw.npy",
+        "audio_id": 7566
+    },
+    {
+        "caption": "calm, relaxation, soothing, peaceful, sleep, meditation, study, beautiful, relaxing",
+        "audio_path": "o8GrqUS_part_29.npy",
+        "audio_id": 7567
+    },
+    {
+        "caption": "intense, emotional, cinematic, solo, instrumental, soundtrack",
+        "audio_path": "ERydpdxVo40.npy",
+        "audio_id": 7568
+    },
+    {
+        "caption": "calming, soothing, reflective, emotional, classical, romantic",
+        "audio_path": "8Z5EjAm_part_4.npy",
+        "audio_id": 7569
+    },
+    {
+        "caption": "nostalgic, reflective, emotional, collaboration, K-pop, ballad",
+        "audio_path": "8k4nJdC1j14.npy",
+        "audio_id": 7570
+    },
+    {
+        "caption": "classical, contemplative, melancholic, meditation, reflection",
+        "audio_path": "hbkeq71v5PA.npy",
+        "audio_id": 7571
+    },
+    {
+        "caption": "joyful, pop, cover",
+        "audio_path": "Zj15Pz57NGo.npy",
+        "audio_id": 7572
+    },
+    {
+        "caption": "classical, early romantic era, polish classical, upbeat",
+        "audio_path": "xCom9KrpquE.npy",
+        "audio_id": 7573
+    },
+    {
+        "caption": "peaceful, hopeful, inspirational, pop, ballad",
+        "audio_path": "AVMewBIJKBo.npy",
+        "audio_id": 7574
+    },
+    {
+        "caption": "jazz, blues, classical, cover, variation",
+        "audio_path": "xtYwhPrgTMA.npy",
+        "audio_id": 7575
+    },
+    {
+        "caption": "new age, lounge, jazz, healing, relaxing, smooth jazz, bossa nova, meditation",
+        "audio_path": "4HrH3S4piN8.npy",
+        "audio_id": 7576
+    },
+    {
+        "caption": "romantic, soothing, cover, pop",
+        "audio_path": "GJBEUN-_tx8.npy",
+        "audio_id": 7577
+    },
+    {
+        "caption": "relaxing, classical, solo, French, contemplative, serene",
+        "audio_path": "X0YYtVelprg.npy",
+        "audio_id": 7578
+    },
+    {
+        "caption": "retro, K-pop, rhythmic, arranged",
+        "audio_path": "g8pYF5tkl1w.npy",
+        "audio_id": 7579
+    },
+    {
+        "caption": "sad, calm, stress relief, sleep, meditation, relaxing, beautiful, calming, ambient, peaceful, soothing, insomnia, massage, spa, healing, soft, yoga, work, study, zen, focus",
+        "audio_path": "1E_Njg9_part_9.npy",
+        "audio_id": 7580
+    },
+    {
+        "caption": "retro, K-pop, jazz-inspired, descending bassline",
+        "audio_path": "QnFH3ItT_cE.npy",
+        "audio_id": 7581
+    },
+    {
+        "caption": "romantic, classical, relaxing, beautiful, peaceful",
+        "audio_path": "AOVgSWQ_part_1.npy",
+        "audio_id": 7582
+    },
+    {
+        "caption": "Latin, Urban, Pop, Piano Cover",
+        "audio_path": "LgZzZ5ckYnw.npy",
+        "audio_id": 7583
+    },
+    {
+        "caption": "Nursery Rhyme",
+        "audio_path": "o9yf3Boz-jQ0NSpQeDCF1k.npy",
+        "audio_id": 7584
+    },
+    {
+        "caption": "romantic, relaxing, soothing, emotional, love, beautiful, classic, 80s",
+        "audio_path": "C4Z8fi9_part_10.npy",
+        "audio_id": 7585
+    },
+    {
+        "caption": "disco, energetic, historical, Russian, dance, remix, funky, meme, intense, tutorial",
+        "audio_path": "BrmfIhky8Qw.npy",
+        "audio_id": 7586
+    },
+    {
+        "caption": "comfortable, relaxing, jazz, piano, happiness",
+        "audio_path": "qZnWXLzPkYk.npy",
+        "audio_id": 7587
+    },
+    {
+        "caption": "romantic, love, beautiful, relaxing, happy, sad, classic",
+        "audio_path": "HP35Y5p_part_10.npy",
+        "audio_id": 7588
+    },
+    {
+        "caption": "romantic, beautiful, relaxing, happy, sad",
+        "audio_path": "LtPmiGM_part_1.npy",
+        "audio_id": 7589
+    },
+    {
+        "caption": "ragtime, upbeat, cheerful, lively, historical, energetic",
+        "audio_path": "x6fUzpmL4XE.npy",
+        "audio_id": 7590
+    },
+    {
+        "caption": "Bossa Nova, Jazz Samba, soothing, rhythmic",
+        "audio_path": "cRJ2-7NOoIE.npy",
+        "audio_id": 7591
+    },
+    {
+        "caption": "jazz, upbeat, energetic, complex, rhythmic",
+        "audio_path": "RgLyCWXMQzs.npy",
+        "audio_id": 7592
+    },
+    {
+        "caption": "tutorial, beginner-friendly, viral, TikTok, slow",
+        "audio_path": "Q4gp_Jk2Uok.npy",
+        "audio_id": 7593
+    },
+    {
+        "caption": "classical, practice, technique, study, exercise",
+        "audio_path": "nconqtOKCTM.npy",
+        "audio_id": 7594
+    },
+    {
+        "caption": "jazz, swing, ballad, relaxing, peaceful, standardjazz, meditation, study, stressrelief, deepsleep, relaxation",
+        "audio_path": "XKsTEMZzVqI.npy",
+        "audio_id": 7595
+    },
+    {
+        "caption": "New Age, piano, summer",
+        "audio_path": "EISayZLiMgo.npy",
+        "audio_id": 7596
+    },
+    {
+        "caption": "romantic, love, beautiful, relaxing, happy, sad",
+        "audio_path": "31H2BLY_part_7.npy",
+        "audio_id": 7597
+    },
+    {
+        "caption": "Korean, children, sentimental, soothing",
+        "audio_path": "-807FRAvmPs.npy",
+        "audio_id": 7598
+    },
+    {
+        "caption": "relaxing, comfortable, healing, animated, magic",
+        "audio_path": "VRiiYOA_part_22.npy",
+        "audio_id": 7599
+    },
+    {
+        "caption": "calm, comfort, concentration, relaxing, study",
+        "audio_path": "iDcvp5D_part_2.npy",
+        "audio_id": 7600
+    },
+    {
+        "caption": "classical, nature-inspired, nationalistic, romantic, emotional",
+        "audio_path": "uIJvQcYsULg.npy",
+        "audio_id": 7601
+    },
+    {
+        "caption": "novelty, modern ragtime, crazy, synthetic",
+        "audio_path": "kjnXdL05QuI.npy",
+        "audio_id": 7602
+    },
+    {
+        "caption": "classic, difficult, epic, healing, improvisation, medley, relax, secret",
+        "audio_path": "rORG_M70wek.npy",
+        "audio_id": 7603
+    },
+    {
+        "caption": "K-pop, energetic, playful, upbeat",
+        "audio_path": "JpI09HVDieg.npy",
+        "audio_id": 7604
+    },
+    {
+        "caption": "playful, cheerful, light-hearted, upbeat, positive, piano-focused",
+        "audio_path": "E-SSgrBbR9M.npy",
+        "audio_id": 7605
+    },
+    {
+        "caption": "calm, serene, melancholic, classical, impressionist",
+        "audio_path": "_z8abOKmBws.npy",
+        "audio_id": 7606
+    },
+    {
+        "caption": "beautiful, relaxing, romantic, classical, love",
+        "audio_path": "lqO6DRr_part_4.npy",
+        "audio_id": 7607
+    },
+    {
+        "caption": "classical, enchanting, captivating, tragic, diverse, hidden treasures, allegro, andante, maestoso, vivace, eroico",
+        "audio_path": "r2AYhaNhLGc.npy",
+        "audio_id": 7608
+    },
+    {
+        "caption": "jazz, improvisation, solo, Thelonious Monk-inspired",
+        "audio_path": "sTuBDxI9yR8.npy",
+        "audio_id": 7609
+    },
+    {
+        "caption": "nostalgic, romantic, ballad, slow-tempo",
+        "audio_path": "zIUZ3jM6XE0.npy",
+        "audio_id": 7610
+    },
+    {
+        "caption": "romantic, calming, pop, cover, intermediate-level",
+        "audio_path": "_wXAtG0FzCs.npy",
+        "audio_id": 7611
+    },
+    {
+        "caption": "romantic, tender, soothing, easy-listening",
+        "audio_path": "csEtTGH5peY.npy",
+        "audio_id": 7612
+    },
+    {
+        "caption": "Bossa Nova, jazz, solo, relaxed, smooth",
+        "audio_path": "RhWzphs5Pbk.npy",
+        "audio_id": 7613
+    },
+    {
+        "caption": "animated, fun, memorable, magical, Disney",
+        "audio_path": "bP-1FIAXqoE.npy",
+        "audio_id": 7614
+    },
+    {
+        "caption": "romantic, love, relaxing, beautiful, classical",
+        "audio_path": "3fGLgVt_part_5.npy",
+        "audio_id": 7615
+    },
+    {
+        "caption": "cinematic, epic, powerful, stormy",
+        "audio_path": "L-Zbi7j3kyc.npy",
+        "audio_id": 7616
+    },
+    {
+        "caption": "playful, cheerful, light-hearted, upbeat",
+        "audio_path": "_5OpGIQOFQo.npy",
+        "audio_id": 7617
+    },
+    {
+        "caption": "Jazz, Classic",
+        "audio_path": "z0nd5Qn4VzU.npy",
+        "audio_id": 7618
+    },
+    {
+        "caption": "joyful, pop, cover",
+        "audio_path": "R_5yA8lAnqI.npy",
+        "audio_id": 7619
+    },
+    {
+        "caption": "Romantic, Neoromantic, Cinematic, Epic, Inspiring, Fast",
+        "audio_path": "GVNADxtgonk.npy",
+        "audio_id": 7620
+    },
+    {
+        "caption": "intense, dramatic, cinematic, fantasy, video game music, orchestral,",
+        "audio_path": "WyvfXLkMJwU.npy",
+        "audio_id": 7621
+    },
+    {
+        "caption": "playful, piano",
+        "audio_path": "E3UtVhQNC-E.npy",
+        "audio_id": 7622
+    },
+    {
+        "caption": "relaxing, calm, gentle, sleep, study",
+        "audio_path": "XnPL8Kl_part_51.npy",
+        "audio_id": 7623
+    },
+    {
+        "caption": "romantic, easy-listening, pop",
+        "audio_path": "7dnfni450P4.npy",
+        "audio_id": 7624
+    },
+    {
+        "caption": "relaxing, soothing, sentimental",
+        "audio_path": "goYFi3TdPGs.npy",
+        "audio_id": 7625
+    },
+    {
+        "caption": "jazz, waltz, Disney, medley, cover",
+        "audio_path": "LDr2RogEsiM.npy",
+        "audio_id": 7626
+    },
+    {
+        "caption": "cinematic, dramatic, epic, inspirational",
+        "audio_path": "Iq6g_4AwUWs.npy",
+        "audio_id": 7627
+    },
+    {
+        "caption": "piano, playful, fun",
+        "audio_path": "d280s7SkXnQ.npy",
+        "audio_id": 7628
+    },
+    {
+        "caption": "relaxing, piano, anime, soundtrack, BGM, study, sleeping",
+        "audio_path": "H5ohDQ-_part_2.npy",
+        "audio_id": 7629
+    },
+    {
+        "caption": "synthetic, chords, beautiful",
+        "audio_path": "ywoKffoqFL0.npy",
+        "audio_id": 7630
+    },
+    {
+        "caption": "jazz, sentimental, live",
+        "audio_path": "emw48yZGijM.npy",
+        "audio_id": 7631
+    },
+    {
+        "caption": "romantic, love, relaxing, beautiful, classical, famous, soothing, healing",
+        "audio_path": "-z_H9dN_part_14.npy",
+        "audio_id": 7632
+    },
+    {
+        "caption": "anime, cover, piano, game, emotional, uplifting",
+        "audio_path": "xl7Yupv0koA.npy",
+        "audio_id": 7633
+    },
+    {
+        "caption": "romantic, sentimental, cinematic, soothing, melodic",
+        "audio_path": "3cDvi2-xqk8.npy",
+        "audio_id": 7634
+    },
+    {
+        "caption": "meditative, piano, new age, ambient, soundscapes, synthesizers, sound bath, sound healing, world",
+        "audio_path": "q4kWqjpiA3Q.npy",
+        "audio_id": 7635
+    },
+    {
+        "caption": "meditative, spiritual, reflective, calming, Christian, worship",
+        "audio_path": "cex-s4b_part_1.npy",
+        "audio_id": 7636
+    },
+    {
+        "caption": "praise, worship, contemporary, Christian, relaxing, meditation, prayer, peaceful",
+        "audio_path": "z3WV7cM_part_2.npy",
+        "audio_id": 7637
+    },
+    {
+        "caption": "relaxing, soothing, emotional, contemporary, reflective",
+        "audio_path": "cMzyLBu_part_4.npy",
+        "audio_id": 7638
+    },
+    {
+        "caption": "bossa nova, slow, easy, relaxing,",
+        "audio_path": "Ef1tQ2J1Hqw.npy",
+        "audio_id": 7639
+    },
+    {
+        "caption": "serene, contemplative, , cover",
+        "audio_path": "uc9bvC60K_U.npy",
+        "audio_id": 7640
+    },
+    {
+        "caption": "dark, classical, somber, romantic",
+        "audio_path": "RoJmgFSffhI.npy",
+        "audio_id": 7641
+    },
+    {
+        "caption": "classical, emotional, serene",
+        "audio_path": "AkFRA28w9iU.npy",
+        "audio_id": 7642
+    },
+    {
+        "caption": "relaxing, sleep, calm, peaceful, soothing, meditation, stress relief, healing, positive energy",
+        "audio_path": "Ut2TOUz_part_15.npy",
+        "audio_id": 7643
+    },
+    {
+        "caption": "epic, virtuosic, cinematic, adventurous, intense",
+        "audio_path": "EpIJnYlpwA0.npy",
+        "audio_id": 7644
+    },
+    {
+        "caption": "classical, romantic, nocturne, ragtime, melancholic, reflective",
+        "audio_path": "xZDNfAjaU2c.npy",
+        "audio_id": 7645
+    },
+    {
+        "caption": "romantic, relaxing, beautiful, love, happy, sad",
+        "audio_path": "Kwikpft_part_14.npy",
+        "audio_id": 7646
+    },
+    {
+        "caption": "nostalgic, serene, cinematic",
+        "audio_path": "QB_dRCOD7Ic.npy",
+        "audio_id": 7647
+    },
+    {
+        "caption": "romantic, love, relaxing, classical, beautiful, stress-relief",
+        "audio_path": "2Ox8ZDY_part_15.npy",
+        "audio_id": 7648
+    },
+    {
+        "caption": "bossa nova, jazz, calming, intermediate",
+        "audio_path": "YWydxhjpqrM.npy",
+        "audio_id": 7649
+    },
+    {
+        "caption": "jazz, hymn, reflective, advanced, religious, Easter, lilting, light",
+        "audio_path": "eYpJLP-fIgo.npy",
+        "audio_id": 7650
+    },
+    {
+        "caption": "serene, soothing, reflective, romantic, soft, cover",
+        "audio_path": "umy7_ttsDlU.npy",
+        "audio_id": 7651
+    },
+    {
+        "caption": "relaxing, sleep, stress relief, comfortable, sleep induction, study, peaceful, healing, meditation, insomnia treatment",
+        "audio_path": "LHkS7JS_part_12.npy",
+        "audio_id": 7652
+    },
+    {
+        "caption": "emotional, cinematic, nostalgic, dreamy, soothing",
+        "audio_path": "OWTaPkqAoW0.npy",
+        "audio_id": 7653
+    },
+    {
+        "caption": "melancholic, reflective, folk",
+        "audio_path": "fELggcbjZOI.npy",
+        "audio_id": 7654
+    },
+    {
+        "caption": "romantic, relaxing, beautiful, calming, love, classical, soothing",
+        "audio_path": "PNIstQJ_part_4.npy",
+        "audio_id": 7655
+    },
+    {
+        "caption": "solemn, reflective, mournful, commemorative",
+        "audio_path": "hyOQWG0qQ74.npy",
+        "audio_id": 7656
+    },
+    {
+        "caption": "new age, jazz, classic, emotional, cinematic",
+        "audio_path": "M4FrLlKwsNk.npy",
+        "audio_id": 7657
+    },
+    {
+        "caption": "pop, upbeat, cover, karaoke",
+        "audio_path": "B-mQFs6vSoo.npy",
+        "audio_id": 7658
+    },
+    {
+        "caption": "spooky, Halloween, collaboration, fun, interesting, specialedition, pianistic",
+        "audio_path": "C12p-UkgsRg.npy",
+        "audio_id": 7659
+    },
+    {
+        "caption": "sad, funeral, tribute, memorial, mellow, subtle",
+        "audio_path": "5BeIbtR_part_4.npy",
+        "audio_id": 7660
+    },
+    {
+        "caption": "K-Pop, Retro, Arpeggio, Tension",
+        "audio_path": "c491wGizxYs.npy",
+        "audio_id": 7661
+    },
+    {
+        "caption": "classic jazz, stride piano, old jazz, swing, early jazz, roaring twenties, piano jazz",
+        "audio_path": "_SR5EkpiAaQ.npy",
+        "audio_id": 7662
+    },
+    {
+        "caption": "romantic, relaxing, sweet, covers, popular",
+        "audio_path": "wmFz6CD_part_2.npy",
+        "audio_id": 7663
+    },
+    {
+        "caption": "relaxing, epic, cover",
+        "audio_path": "Kmw6c0a_part_2.npy",
+        "audio_id": 7664
+    },
+    {
+        "caption": "new age, relaxing, meditation, lounge, jazz, healing, smooth jazz, bossa nova",
+        "audio_path": "t71qU7ruE7k_part_3.npy",
+        "audio_id": 7665
+    },
+    {
+        "caption": "happy, romantic, emotional, beautiful, background",
+        "audio_path": "GCcHl2UFsdc.npy",
+        "audio_id": 7666
+    },
+    {
+        "caption": "drama, emotional, joyful, romantic, cover, k-pop, pop, jazz, CCM",
+        "audio_path": "uGqbu2rNoc8.npy",
+        "audio_id": 7667
+    },
+    {
+        "caption": "friendly, cheerful, uplifting, nostalgic",
+        "audio_path": "OyoYTcUqFaw.npy",
+        "audio_id": 7668
+    },
+    {
+        "caption": "romantic, relaxing, classic, love, beautiful, happy, sad",
+        "audio_path": "hDdVbTc_part_3.npy",
+        "audio_id": 7669
+    },
+    {
+        "caption": "kpop, pop, cover, idol, girl group, drama, jazz, creepy, romantic",
+        "audio_path": "FdIbUh_fZmQ.npy",
+        "audio_id": 7670
+    },
+    {
+        "caption": "relaxing, classical, cozy, romantic, ambient, study, sleep",
+        "audio_path": "Exz6rmm_part_11.npy",
+        "audio_id": 7671
+    },
+    {
+        "caption": "jazz, swing, advanced, ,",
+        "audio_path": "Akn2cF6x-MQ.npy",
+        "audio_id": 7672
+    },
+    {
+        "caption": "romantic, beautiful, relaxing, happy, sad, love",
+        "audio_path": "LtPmiGM_part_12.npy",
+        "audio_id": 7673
+    },
+    {
+        "caption": "jazz, stride, swing, early jazz, joyful, comedic, innovative",
+        "audio_path": "_JLyRZy1H7Q.npy",
+        "audio_id": 7674
+    },
+    {
+        "caption": "contemporary, Christian, relaxing, meditation, prayer, peaceful",
+        "audio_path": "z3WV7cM_part_1.npy",
+        "audio_id": 7675
+    },
+    {
+        "caption": "jazz, swing, piano",
+        "audio_path": "i0QVRW5oNMo.npy",
+        "audio_id": 7676
+    },
+    {
+        "caption": "romantic, relaxing, classical, love, beautiful, peaceful, stress-relief",
+        "audio_path": "V7nrQFx_part_5.npy",
+        "audio_id": 7677
+    },
+    {
+        "caption": "emotive, piano, lonely",
+        "audio_path": "Y_MUxsSbkds.npy",
+        "audio_id": 7678
+    },
+    {
+        "caption": "classical, professional, relaxing, beautiful, fast, exciting",
+        "audio_path": "oY_9O2BH9oM.npy",
+        "audio_id": 7679
+    },
+    {
+        "caption": "autumn, emotional, healing, new age",
+        "audio_path": "J8wI2iLdQ1o.npy",
+        "audio_id": 7680
+    },
+    {
+        "caption": "relaxing, chillout, peaceful, meditation, background, stress-relief",
+        "audio_path": "P-mmrLo_part_3.npy",
+        "audio_id": 7681
+    },
+    {
+        "caption": "anime, easy, piano, tutorial, Synthesia",
+        "audio_path": "CtmOs-Kr-tU.npy",
+        "audio_id": 7682
+    },
+    {
+        "caption": "relaxing, soothing, meditative, ambient",
+        "audio_path": "WAIX_wmj6v4_part_11.npy",
+        "audio_id": 7683
+    },
+    {
+        "caption": "Christmas, hymn, medley, carol, holy, angel, serene, spiritual, traditional, festive",
+        "audio_path": "JWZxuNNcEZI.npy",
+        "audio_id": 7684
+    },
+    {
+        "caption": "Fast, Happy, Piano",
+        "audio_path": "piQkakEoOu4.npy",
+        "audio_id": 7685
+    },
+    {
+        "caption": "classical, lullaby, calming, soothing, relaxing, sleep, peaceful",
+        "audio_path": "udThrlw_part_20.npy",
+        "audio_id": 7686
+    },
+    {
+        "caption": "emotional, romantic, nostalgic, soothing, reflective, dramatic, Korean pop, pop, jazz, contemporary Christian music",
+        "audio_path": "yGs9gTbK5Pw.npy",
+        "audio_id": 7687
+    },
+    {
+        "caption": "relaxing, beautiful, meditation, miracles, calm, deep sleep, fly",
+        "audio_path": "Zp3Z5_5_part_1.npy",
+        "audio_id": 7688
+    },
+    {
+        "caption": "anime, piano, tutorial, dark, epic",
+        "audio_path": "3kAHood6Ep4.npy",
+        "audio_id": 7689
+    },
+    {
+        "caption": "anime, piano, epic",
+        "audio_path": "jZZnWdkaCac.npy",
+        "audio_id": 7690
+    },
+    {
+        "caption": "Christmas, swing, advanced,",
+        "audio_path": "RKcdtZXDv84.npy",
+        "audio_id": 7691
+    },
+    {
+        "caption": ", worship, christian, praise, relaxing, soft, stress relief, meditation",
+        "audio_path": "ob7Ucvk_part_13.npy",
+        "audio_id": 7692
+    },
+    {
+        "caption": "playful, funny, montage, gaming",
+        "audio_path": "X7EkicawfXw.npy",
+        "audio_id": 7693
+    },
+    {
+        "caption": "jazz, healing, evergreen",
+        "audio_path": "DnhFyFnhkF8.npy",
+        "audio_id": 7694
+    },
+    {
+        "caption": "jazz, blues, samba, swing, exercise, easy, simple",
+        "audio_path": "pnKpOrNFeqM.npy",
+        "audio_id": 7695
+    },
+    {
+        "caption": "romantic, relaxing, classical, love, peaceful, soothing",
+        "audio_path": "BollykZ_part_15.npy",
+        "audio_id": 7696
+    },
+    {
+        "caption": "intense, cover, emotional",
+        "audio_path": "MApRzBbH4ow.npy",
+        "audio_id": 7697
+    },
+    {
+        "caption": "calm, synthetic",
+        "audio_path": "f05b5O51KqU.npy",
+        "audio_id": 7698
+    },
+    {
+        "caption": "Christmas, calming, soothing",
+        "audio_path": "JS3ym-Cr8BI.npy",
+        "audio_id": 7699
+    },
+    {
+        "caption": "jazz, blues, relaxed, soulful",
+        "audio_path": "1pZqWwQnnvU.npy",
+        "audio_id": 7700
+    },
+    {
+        "caption": "calm, relaxing, peaceful, soothing, meditation, sleep, study, insomnia",
+        "audio_path": "o8GrqUS_part_20.npy",
+        "audio_id": 7701
+    },
+    {
+        "caption": "romantic, classic, relaxing, love",
+        "audio_path": "MYroNHk_part_5.npy",
+        "audio_id": 7702
+    },
+    {
+        "caption": "romantic, classical, relaxing, beautiful, love, soothing, healing",
+        "audio_path": "-z_H9dN_part_4.npy",
+        "audio_id": 7703
+    },
+    {
+        "caption": "dubstep, electronic, hard",
+        "audio_path": "Gg290v572Zw.npy",
+        "audio_id": 7704
+    },
+    {
+        "caption": "nostalgic, serene, game music",
+        "audio_path": "K66IBffX9Jk.npy",
+        "audio_id": 7705
+    },
+    {
+        "caption": "emotional, romantic, cinematic, dramatic, inspirational, cover, pop, jazz, new age, K-pop",
+        "audio_path": "1PJlhgcdymc.npy",
+        "audio_id": 7706
+    },
+    {
+        "caption": "romantic, relaxing, classical, calm, sad, love",
+        "audio_path": "rhrPrN0_part_3.npy",
+        "audio_id": 7707
+    },
+    {
+        "caption": "romantic, love, beautiful, heartfelt, relaxing, happy, sad",
+        "audio_path": "7YbUoHL_part_7.npy",
+        "audio_id": 7708
+    },
+    {
+        "caption": "nostalgic, calming, cinematic,",
+        "audio_path": "CHDfexhkP9Q.npy",
+        "audio_id": 7709
+    },
+    {
+        "caption": "Ballad, Calm, Soothing",
+        "audio_path": "fpXKTqc1Hps.npy",
+        "audio_id": 7710
+    },
+    {
+        "caption": "creepy, drama, jazz, kpop, pop, ost",
+        "audio_path": "WH720lZOev8.npy",
+        "audio_id": 7711
+    },
+    {
+        "caption": "relaxing, modern, classical, concentration, deep relaxation, studying, reading",
+        "audio_path": "YUOu8Pp_part_3.npy",
+        "audio_id": 7712
+    },
+    {
+        "caption": "chillout, relaxation, peaceful, meditation, instrumental, background, stress relief",
+        "audio_path": "P-mmrLo_part_7.npy",
+        "audio_id": 7713
+    },
+    {
+        "caption": "relaxing, soothing, , cover",
+        "audio_path": "Ner5bAOSVZc.npy",
+        "audio_id": 7714
+    },
+    {
+        "caption": "jazz, swing, ballad, solo, tutorial, standard",
+        "audio_path": "0BEukgT9mb8.npy",
+        "audio_id": 7715
+    },
+    {
+        "caption": "romantic, relaxing, love, classic, beautiful",
+        "audio_path": "GXhP3SJ_part_2.npy",
+        "audio_id": 7716
+    },
+    {
+        "caption": "relaxing, peaceful, ambient, soothing, spiritual, chill-out, meditation, study, yoga",
+        "audio_path": "EhO_MrR_part_14.npy",
+        "audio_id": 7717
+    },
+    {
+        "caption": "jazz, bebop, blues, swing, relaxing, healing",
+        "audio_path": "6i8LHabv8PQ.npy",
+        "audio_id": 7718
+    },
+    {
+        "caption": "classical, relaxing, waltz",
+        "audio_path": "uf19dJlBrUg.npy",
+        "audio_id": 7719
+    },
+    {
+        "caption": "jazz, swing, stride",
+        "audio_path": "2zvoKCeai6s.npy",
+        "audio_id": 7720
+    },
+    {
+        "caption": "calm, light, peaceful, uplifting, modern",
+        "audio_path": "2DvcjROi93I.npy",
+        "audio_id": 7721
+    },
+    {
+        "caption": "K-pop, upbeat, energetic, joyful, pop",
+        "audio_path": "J8csSkIAwjI.npy",
+        "audio_id": 7722
+    },
+    {
+        "caption": "K-pop, Ballad, Emotional",
+        "audio_path": "8lkQkFSxzU4.npy",
+        "audio_id": 7723
+    },
+    {
+        "caption": "romantic, relaxing, beautiful, instrumental, love, sad, happy",
+        "audio_path": "aBbacfH_part_3.npy",
+        "audio_id": 7724
+    },
+    {
+        "caption": "ragtime, agitation, energetic",
+        "audio_path": "UZorLWbNQrM.npy",
+        "audio_id": 7725
+    },
+    {
+        "caption": "playful, competition, energetic, joyful",
+        "audio_path": "M-yrnR3MnMo.npy",
+        "audio_id": 7726
+    },
+    {
+        "caption": "jazz, swing, improvisation, Bossa Nova",
+        "audio_path": "4my4yImtxDM.npy",
+        "audio_id": 7727
+    },
+    {
+        "caption": "dramatic, epic, cinematic, fantasy,",
+        "audio_path": "LuozBS34JE4.npy",
+        "audio_id": 7728
+    },
+    {
+        "caption": "dark, trending, viral",
+        "audio_path": "NM0AkWuReBk.npy",
+        "audio_id": 7729
+    },
+    {
+        "caption": "romantic, love, beautiful, relaxing, soothing, passion, unforgettable, joy",
+        "audio_path": "9k-NCBB_part_12.npy",
+        "audio_id": 7730
+    },
+    {
+        "caption": "jazz, ballad, emotional, reflective, melancholic",
+        "audio_path": "_MwouMm_mu8.npy",
+        "audio_id": 7731
+    },
+    {
+        "caption": "jazz, blues, improvisation, fast, jazzy",
+        "audio_path": "_ts61DTbqcQ.npy",
+        "audio_id": 7732
+    },
+    {
+        "caption": "epic, awesome, tribute",
+        "audio_path": "CS0OjmnrAhQ.npy",
+        "audio_id": 7733
+    },
+    {
+        "caption": "calming, relaxing, meditation, study, stress-relief, sleep",
+        "audio_path": "KoJSpup_part_1.npy",
+        "audio_id": 7734
+    },
+    {
+        "caption": "jazz, improvisation,",
+        "audio_path": "okAC7sFde8E.npy",
+        "audio_id": 7735
+    },
+    {
+        "caption": "jazz, blues, gospel, neosoul",
+        "audio_path": "lofBjQKOvxI.npy",
+        "audio_id": 7736
+    },
+    {
+        "caption": "jazz, blues, improvisation, swing, ballad, bossa nova, funk, R&B, hip hop",
+        "audio_path": "dnXAwBHo1Kg.npy",
+        "audio_id": 7737
+    },
+    {
+        "caption": "easy, beginner, tutorial",
+        "audio_path": "xJspuSY2MXw.npy",
+        "audio_id": 7738
+    },
+    {
+        "caption": "BGM",
+        "audio_path": "iT74vWg_part_8.npy",
+        "audio_id": 7739
+    },
+    {
+        "caption": "nordic, classical, piano, energetic, joy",
+        "audio_path": "BeoFtL2YdwA.npy",
+        "audio_id": 7740
+    },
+    {
+        "caption": "joyful, upbeat, piano, beautiful, happy",
+        "audio_path": "yU7f_pz5L54.npy",
+        "audio_id": 7741
+    },
+    {
+        "caption": "spiritual, healing, relaxation, meditation, worship, Christian, intercession, warfare",
+        "audio_path": "8moa5Fb_part_16.npy",
+        "audio_id": 7742
+    },
+    {
+        "caption": "jazz, classic",
+        "audio_path": "jG4wRYWuqCE.npy",
+        "audio_id": 7743
+    },
+    {
+        "caption": "ragtime, upbeat, playful, rhythmic, joyful",
+        "audio_path": "WX9aYwjkOvE.npy",
+        "audio_id": 7744
+    },
+    {
+        "caption": "romantic, love, beautiful, calm, meditation, peaceful, stress relief, soothing, relaxation, sleep",
+        "audio_path": "Vw4guRA_part_3.npy",
+        "audio_id": 7745
+    },
+    {
+        "caption": "romantic, classical, emotional, dreamy",
+        "audio_path": "_y4ASxQuabE.npy",
+        "audio_id": 7746
+    },
+    {
+        "caption": "jazz, cover, emotional, OST",
+        "audio_path": "YLORcs5eWD0.npy",
+        "audio_id": 7747
+    },
+    {
+        "caption": "relaxing, calm, classical, soft, meditation, stress-relief, sleep, study, yoga",
+        "audio_path": "vCYk9CR_part_2.npy",
+        "audio_id": 7748
+    },
+    {
+        "caption": "sad, soothing, relaxing, melancholic",
+        "audio_path": "TmOrdQlsBxE.npy",
+        "audio_id": 7749
+    },
+    {
+        "caption": "swing, jazz, instrumental",
+        "audio_path": "85HOa-uUxG4.npy",
+        "audio_id": 7750
+    },
+    {
+        "caption": "new age, calming, soothing, reflective",
+        "audio_path": "DJ8s4wGrN80.npy",
+        "audio_id": 7751
+    },
+    {
+        "caption": "sad, relaxing, beautiful, soothing, depression, nostalgia, stress relief",
+        "audio_path": "0u6l1PR_part_17.npy",
+        "audio_id": 7752
+    },
+    {
+        "caption": "angry, furious, passionate, classical",
+        "audio_path": "m23Cl-E9Qkc_part_1.npy",
+        "audio_id": 7753
+    },
+    {
+        "caption": "romantic, relaxing, beautiful, love, sad, happy, classical",
+        "audio_path": "aBbacfH_part_7.npy",
+        "audio_id": 7754
+    },
+    {
+        "caption": "K-pop, piano, accompaniment, cover",
+        "audio_path": "q7nYspgD33s.npy",
+        "audio_id": 7755
+    },
+    {
+        "caption": "cinematic, fantasy, magical, mysterious",
+        "audio_path": "MneZ4NP4WlY.npy",
+        "audio_id": 7756
+    },
+    {
+        "caption": "romantic, classical, relaxing, beautiful, emotional, love, timeless",
+        "audio_path": "XqLVG3j_part_3.npy",
+        "audio_id": 7757
+    },
+    {
+        "caption": "funk, punk, energetic, upbeat, jazzy",
+        "audio_path": "1Tpz9vHWOZ0.npy",
+        "audio_id": 7758
+    },
+    {
+        "caption": "eerie, haunting, dramatic, melancholic",
+        "audio_path": "WNIx5ozsOdY.npy",
+        "audio_id": 7759
+    },
+    {
+        "caption": "romantic, nostalgic, dramatic, jazz, tango, cinematic",
+        "audio_path": "oAfU-b2ARXw.npy",
+        "audio_id": 7760
+    },
+    {
+        "caption": "classical, waltz, advanced, impressive, famous, Austrian",
+        "audio_path": "MqOjWw1Apjo.npy",
+        "audio_id": 7761
+    },
+    {
+        "caption": "refreshing, emotional",
+        "audio_path": "O_iVj5gBqF8.npy",
+        "audio_id": 7762
+    },
+    {
+        "caption": "new age, easy listening, smooth jazz, winter, solo, Japanese",
+        "audio_path": "rDnLazfYdLc.npy",
+        "audio_id": 7763
+    },
+    {
+        "caption": "romantic, beautiful, relaxing, love, nostalgia, emotional, classic, 80s, 90s",
+        "audio_path": "_cLnE4d_part_2.npy",
+        "audio_id": 7764
+    },
+    {
+        "caption": "romantic, beautiful, relaxing, love, sweet, contemporary, iconic",
+        "audio_path": "22pJyHf_part_6.npy",
+        "audio_id": 7765
+    },
+    {
+        "caption": "resistance, Italian, emotional, dramatic, historical",
+        "audio_path": "6630pFF1w7Y.npy",
+        "audio_id": 7766
+    },
+    {
+        "caption": "epic, theme, game music",
+        "audio_path": "5O44HZijlg8.npy",
+        "audio_id": 7767
+    },
+    {
+        "caption": "romantic, emotional, relaxing, calm, beautiful, soft, meditation, study, sleep, spa, yoga, background, classical",
+        "audio_path": "uuZ_20Vq_FI.npy",
+        "audio_id": 7768
+    },
+    {
+        "caption": "paracana, passionate, piano",
+        "audio_path": "cU-87bThsbs.npy",
+        "audio_id": 7769
+    },
+    {
+        "caption": "Ballad, K-pop, Accompaniment, Emotional, Serene",
+        "audio_path": "l5HcMJiGc-4.npy",
+        "audio_id": 7770
+    },
+    {
+        "caption": "peaceful, reflective, intermediate-level, C major",
+        "audio_path": "ER9ZS5cQEng.npy",
+        "audio_id": 7771
+    },
+    {
+        "caption": "romantic, relaxing, instrumental, love, serenity",
+        "audio_path": "Pgprzpc_part_2.npy",
+        "audio_id": 7772
+    },
+    {
+        "caption": "jazz, classic",
+        "audio_path": "bSqrV7AgmoA.npy",
+        "audio_id": 7773
+    },
+    {
+        "caption": "dark, hate, pain, emotion, depressed, evil",
+        "audio_path": "ziQ9GURNrUg.npy",
+        "audio_id": 7774
+    },
+    {
+        "caption": "jazz, advanced, emotional, dreamy, inspirational",
+        "audio_path": "CiajUyuz7G8.npy",
+        "audio_id": 7775
+    },
+    {
+        "caption": "calm, relaxing, peaceful, soothing, meditation, sleep, study, insomnia, relaxation, chill out",
+        "audio_path": "o8GrqUS_part_53.npy",
+        "audio_id": 7776
+    },
+    {
+        "caption": "jazz, odd rhythm, light",
+        "audio_path": "81U88fTv02w.npy",
+        "audio_id": 7777
+    },
+    {
+        "caption": "relaxing, comfortable, healing, deep sleep, animated movie, magic",
+        "audio_path": "VRiiYOA_part_25.npy",
+        "audio_id": 7778
+    },
+    {
+        "caption": "romantic, classical, relaxing, beautiful, peaceful",
+        "audio_path": "AOVgSWQ_part_9.npy",
+        "audio_id": 7779
+    },
+    {
+        "caption": "J-pop, warm, romantic",
+        "audio_path": "qm_0lQfiCoQ.npy",
+        "audio_id": 7780
+    },
+    {
+        "caption": "peaceful, mysterious, easy-listening",
+        "audio_path": "6-E4b_wL2G8.npy",
+        "audio_id": 7781
+    },
+    {
+        "caption": "emotional, touching, classical, , vintage, rare",
+        "audio_path": "fo0nGJNplgg.npy",
+        "audio_id": 7782
+    },
+    {
+        "caption": "upbeat, happy, instrumental worship, piano worship",
+        "audio_path": "2n3Zdw-wT14.npy",
+        "audio_id": 7783
+    },
+    {
+        "caption": "classical, impressionism, post-romantic era, upbeat, romantic, love, inspiration, fantasy, discovery, accessible",
+        "audio_path": "VdaYiXepn7Q.npy",
+        "audio_id": 7784
+    },
+    {
+        "caption": "relaxing, calm, peaceful, soothing, sleep, healing, meditation, study, spa, romantic, yoga",
+        "audio_path": "cjkFG6b_part_8.npy",
+        "audio_id": 7785
+    },
+    {
+        "caption": "sentimental, reflective, K-pop, ballad",
+        "audio_path": "ZK1mhyr5NYo.npy",
+        "audio_id": 7786
+    },
+    {
+        "caption": "romantic, classic, beautiful, nostalgic, relaxing, happy, sad",
+        "audio_path": "CkCwUXf_part_18.npy",
+        "audio_id": 7787
+    },
+    {
+        "caption": "ballad, jazz, piano, rainy, melancholic",
+        "audio_path": "dMPlntnv93o.npy",
+        "audio_id": 7788
+    },
+    {
+        "caption": "nostalgic, cinematic, melancholic, educational",
+        "audio_path": "QRysi3J4AKg.npy",
+        "audio_id": 7789
+    },
+    {
+        "caption": "improvisational, new age, easy listening",
+        "audio_path": "C_MAKZJnIOI.npy",
+        "audio_id": 7790
+    },
+    {
+        "caption": "romantic, classical, relaxing, beautiful",
+        "audio_path": "AOVgSWQ_part_6.npy",
+        "audio_id": 7791
+    },
+    {
+        "caption": "romantic, calming, easy-listening, pop",
+        "audio_path": "TXQaecnjWuQ.npy",
+        "audio_id": 7792
+    },
+    {
+        "caption": "sad, reflective, ballad, soft rock, easy-listening",
+        "audio_path": "PaLLBOMjHQg.npy",
+        "audio_id": 7793
+    },
+    {
+        "caption": "relaxing, classical, cozy, romantic, study, ambient",
+        "audio_path": "Exz6rmm_part_40.npy",
+        "audio_id": 7794
+    },
+    {
+        "caption": "relaxing, New Age, studying, sleeping, wave sound, Korean",
+        "audio_path": "a2BXb4X_part_4.npy",
+        "audio_id": 7795
+    },
+    {
+        "caption": "Japanese, anime, emotional, cover, jazz, K-pop, New Age, reharmonization",
+        "audio_path": "K3v5VzwUKqU.npy",
+        "audio_id": 7796
+    },
+    {
+        "caption": "bossanova, jazz, Christmas, carol, reharmonization",
+        "audio_path": "I6TFJre5JAM.npy",
+        "audio_id": 7797
+    },
+    {
+        "caption": "classical, relaxing, nocturne, sonata, serenade, meditation, dreamy, romantic, barcarolle, impromptu, waltz, rhapsody, variations, adagio, allegro, andante, tranquility, reflective, soothing, peaceful",
+        "audio_path": "WLWJy1e_part_35.npy",
+        "audio_id": 7798
+    },
+    {
+        "caption": "romantic, happy, emotional, background, spring, free",
+        "audio_path": "xbHzx3iCX5A.npy",
+        "audio_id": 7799
+    },
+    {
+        "caption": "relaxing, calm, gentle, sleep, study, Disney",
+        "audio_path": "XnPL8Kl_part_29.npy",
+        "audio_id": 7800
+    },
+    {
+        "caption": "energetic, intense, classical, fast",
+        "audio_path": "3m3gjGgaBPI.npy",
+        "audio_id": 7801
+    },
+    {
+        "caption": "playful, light-hearted, carefree, piano, instrumental",
+        "audio_path": "M9X_Bt7aByE.npy",
+        "audio_id": 7802
+    },
+    {
+        "caption": "calm, relaxing, soothing, beautiful, classical, instrumental",
+        "audio_path": "hQncT4H_part_3.npy",
+        "audio_id": 7803
+    },
+    {
+        "caption": "jazz, bossa nova, standard",
+        "audio_path": "yHGQ-6jzSlE.npy",
+        "audio_id": 7804
+    },
+    {
+        "caption": "New Age, Comfortable, Happy, Exciting, Light, Morning, Refreshing",
+        "audio_path": "1xanU4QRWnI_part_5.npy",
+        "audio_id": 7805
+    },
+    {
+        "caption": "K-pop, easy, romantic, soothing",
+        "audio_path": "ZGyoc4Te0Qs.npy",
+        "audio_id": 7806
+    },
+    {
+        "caption": "classical, classical era, early romantic era, german romanticism, intense",
+        "audio_path": "DtKCNJmARF0.npy",
+        "audio_id": 7807
+    },
+    {
+        "caption": "relaxing, classical, cozy, romantic, ambient",
+        "audio_path": "Exz6rmm_part_26.npy",
+        "audio_id": 7808
+    },
+    {
+        "caption": "ragtime, joyful, upbeat, energetic, lively, cheerful",
+        "audio_path": "Xs6Oea1fxjc.npy",
+        "audio_id": 7809
+    },
+    {
+        "caption": "romantic, melancholic, tutorial, cover, beautiful",
+        "audio_path": "ZuLbiwhehTo.npy",
+        "audio_id": 7810
+    },
+    {
+        "caption": "Christmas, jazz, hymn, festive, joyful, celebratory, spiritual",
+        "audio_path": "oZ20cD6iSFo.npy",
+        "audio_id": 7811
+    },
+    {
+        "caption": "classical, dreamy, serene, reflective",
+        "audio_path": "mV0CRjZ1YlI.npy",
+        "audio_id": 7812
+    },
+    {
+        "caption": "nostalgic, emotional, serene, cinematic",
+        "audio_path": "c5DkT-dOg1k.npy",
+        "audio_id": 7813
+    },
+    {
+        "caption": "classical, relaxing, sad, soft, calm, beautiful, romantic, symphonic",
+        "audio_path": "PM5wt7T_part_12.npy",
+        "audio_id": 7814
+    },
+    {
+        "caption": "Blues, Slow, Melancholic,",
+        "audio_path": "dSCcZOVYnZs.npy",
+        "audio_id": 7815
+    },
+    {
+        "caption": "worship, uplifting, piano",
+        "audio_path": "jeX018LaHy4.npy",
+        "audio_id": 7816
+    },
+    {
+        "caption": "jazz, piano, standard, tutorial,",
+        "audio_path": "Tbs-c3IPvLM.npy",
+        "audio_id": 7817
+    },
+    {
+        "caption": "dramatic, intense, cinematic",
+        "audio_path": "idXmR4Ow2Rc.npy",
+        "audio_id": 7818
+    },
+    {
+        "caption": "love, easy, instrumental, beginner-friendly, tagalog, romantic",
+        "audio_path": "Fri_0K4ZxBs.npy",
+        "audio_id": 7819
+    },
+    {
+        "caption": "playful, competition",
+        "audio_path": "VzvGweqrTtI.npy",
+        "audio_id": 7820
+    },
+    {
+        "caption": "romantic, soothing, sentimental, jazz",
+        "audio_path": "Rk-ppL9M6uU.npy",
+        "audio_id": 7821
+    },
+    {
+        "caption": "neo-classical, romantic, sad",
+        "audio_path": "hclMWdjotug.npy",
+        "audio_id": 7822
+    },
+    {
+        "caption": "jazz, classic, arrangement, transcription",
+        "audio_path": "sK3qLgyP2T4.npy",
+        "audio_id": 7823
+    },
+    {
+        "caption": "classical, Indonesian, rumba",
+        "audio_path": "xOegIxmXCfQ.npy",
+        "audio_id": 7824
+    },
+    {
+        "caption": "jazz, cover,",
+        "audio_path": "1sfe4YSVSEM.npy",
+        "audio_id": 7825
+    },
+    {
+        "caption": "summer, beach, playful, cheerful, cover,",
+        "audio_path": "KpQ0HEswthA.npy",
+        "audio_id": 7826
+    },
+    {
+        "caption": "relaxing, calm, peaceful, soothing, meditation, sleep, healing, romantic, spa, yoga",
+        "audio_path": "cjkFG6b_part_16.npy",
+        "audio_id": 7827
+    },
+    {
+        "caption": "impressionist, innovative, symphonic, orchestral, harmonic, poetic, chamber music, Russian influence, Far-Eastern influence",
+        "audio_path": "OUx6ZY6_part_6.npy",
+        "audio_id": 7828
+    },
+    {
+        "caption": "jazz, bebop, blues, improvisation, swing, tutorial",
+        "audio_path": "2pS-khqMGNo.npy",
+        "audio_id": 7829
+    },
+    {
+        "caption": "alternative rock, classic, easy",
+        "audio_path": "niHS8QmoCUs.npy",
+        "audio_id": 7830
+    },
+    {
+        "caption": "rock, metal, goth",
+        "audio_path": "4JdoNozqEVI.npy",
+        "audio_id": 7831
+    },
+    {
+        "caption": "relaxing, comfortable, healing, animated, magic",
+        "audio_path": "VRiiYOA_part_36.npy",
+        "audio_id": 7832
+    },
+    {
+        "caption": "K-pop, emotional, reflective, soothing",
+        "audio_path": "0m3XUgloXWk.npy",
+        "audio_id": 7833
+    },
+    {
+        "caption": "epic, beautiful, concert, magical",
+        "audio_path": "y-6c6T7qPPg.npy",
+        "audio_id": 7834
+    },
+    {
+        "caption": "calming, easy-listening, religious",
+        "audio_path": "_Kn-X-LKKOE.npy",
+        "audio_id": 7835
+    },
+    {
+        "caption": "relaxing, classical, calm, meditation, sleep, beautiful, soothing, relaxation",
+        "audio_path": "whos1iM_part_1.npy",
+        "audio_id": 7836
+    },
+    {
+        "caption": "gentle, soothing, calming, peaceful,",
+        "audio_path": "dx9t3d5NKg0.npy",
+        "audio_id": 7837
+    },
+    {
+        "caption": "happy, uplifting, relaxing, romantic, emotional, positive, Christmas, no copyright",
+        "audio_path": "viDHpiBd_Y4.npy",
+        "audio_id": 7838
+    },
+    {
+        "caption": "relaxing, calm, soft, beautiful, emotional, romantic, meditation, study, sleep, spa, yoga, stress relief, chill, happy, positive energy, nostalgic, motivational, creative, programming, coding, vlog",
+        "audio_path": "REIGfCty1-Y.npy",
+        "audio_id": 7839
+    },
+    {
+        "caption": "Sad, Dark, House, Electronic, Trap, Bass, Chillstep, Deep House",
+        "audio_path": "oqlVawR8Aqc.npy",
+        "audio_id": 7840
+    },
+    {
+        "caption": "calming, pop, jazz, ballad",
+        "audio_path": "ztIAQ5SFHBQ.npy",
+        "audio_id": 7841
+    },
+    {
+        "caption": "dark, sad, free",
+        "audio_path": "JV37Hzh02UY.npy",
+        "audio_id": 7842
+    },
+    {
+        "caption": "relaxing, peaceful, healing, inspirational, New Age, cozy",
+        "audio_path": "qU3sZ749P1E_part_3.npy",
+        "audio_id": 7843
+    },
+    {
+        "caption": "relaxing, beautiful, stress relief, studying",
+        "audio_path": "mzq1CJJ_part_2.npy",
+        "audio_id": 7844
+    },
+    {
+        "caption": "jazz, funk, easy,",
+        "audio_path": "c4qcrfPkRhk.npy",
+        "audio_id": 7845
+    },
+    {
+        "caption": "classical, romantic, emotional, serene, reflective, melancholic, dramatic, passionate, tranquil, intricate",
+        "audio_path": "dpS84xq3r50.npy",
+        "audio_id": 7846
+    },
+    {
+        "caption": "relaxing, calm, gentle, sleep, study",
+        "audio_path": "XnPL8Kl_part_19.npy",
+        "audio_id": 7847
+    },
+    {
+        "caption": "jazz, ballad, emotional, soothing",
+        "audio_path": "BrXnzBgCoAk.npy",
+        "audio_id": 7848
+    },
+    {
+        "caption": "jazz, samba, Latin jazz, groove, Christmas, advanced",
+        "audio_path": "AUdoevy11GM.npy",
+        "audio_id": 7849
+    },
+    {
+        "caption": "relaxing, comfortable, healing, magical, animated",
+        "audio_path": "VRiiYOA_part_40.npy",
+        "audio_id": 7850
+    },
+    {
+        "caption": "calm, relaxing, peaceful, soothing, sleep, meditation, romantic, study",
+        "audio_path": "Lp6XlsB_part_7.npy",
+        "audio_id": 7851
+    },
+    {
+        "caption": "relaxation, expressive, gentle, calming, peaceful, serene, melancholy, hopefulness, tranquility",
+        "audio_path": "1p7jSmz_part_2.npy",
+        "audio_id": 7852
+    },
+    {
+        "caption": "holiday, festive, warm, nostalgic, soothing, ballad, advanced",
+        "audio_path": "llMSUfkaYCo.npy",
+        "audio_id": 7853
+    },
+    {
+        "caption": "epic, cinematic, emotional, inspiring, cover",
+        "audio_path": "h9vj-p1yGLw.npy",
+        "audio_id": 7854
+    },
+    {
+        "caption": "ragtime, pre-jazz, syncopation, saloon",
+        "audio_path": "Y4BbGK4tQi8.npy",
+        "audio_id": 7855
+    },
+    {
+        "caption": "jazz, sophisticated, ,",
+        "audio_path": "GE5_3p4HBjU.npy",
+        "audio_id": 7856
+    },
+    {
+        "caption": "romantic, classical, relaxing, sad, soft, calm, beautiful, instrumental, love",
+        "audio_path": "H4Yk7kc_part_4.npy",
+        "audio_id": 7857
+    },
+    {
+        "caption": ", ballad, CCM, Christian, contemporary, hymn, jazz, classic, peaceful, relaxing, worship, meditation, healing, study, stress relief, refreshing, sleep, relaxation,",
+        "audio_path": "Ipn3tjQZr-A.npy",
+        "audio_id": 7858
+    },
+    {
+        "caption": "meditation, prayer, Christian, worship, relaxation, soothing",
+        "audio_path": "cex-s4b_part_17.npy",
+        "audio_id": 7859
+    },
+    {
+        "caption": "classical, serene, performance",
+        "audio_path": "dvzXb4Q9aTY.npy",
+        "audio_id": 7860
+    },
+    {
+        "caption": "romantic, classical, relaxing, beautiful, peaceful",
+        "audio_path": "AOVgSWQ_part_8.npy",
+        "audio_id": 7861
+    },
+    {
+        "caption": "anime, easy-listening, joyful, tutorial",
+        "audio_path": "j1F4HMJmSH4.npy",
+        "audio_id": 7862
+    },
+    {
+        "caption": "relaxing, chillout, peaceful, meditation, background, stress-relief",
+        "audio_path": "P-mmrLo_part_40.npy",
+        "audio_id": 7863
+    },
+    {
+        "caption": "Japanese anime, Creepy, Synchro rate 99, KPOP, New Age, Acoustic, Cover",
+        "audio_path": "SP_x-d4yLgs.npy",
+        "audio_id": 7864
+    },
+    {
+        "caption": "minimalism, contemporary classical, passionate, ambient",
+        "audio_path": "UtQpSGyPCBE.npy",
+        "audio_id": 7865
+    },
+    {
+        "caption": "creepy, cinematic, atmospheric, suspenseful, dramatic",
+        "audio_path": "_l7NwLgm8DM.npy",
+        "audio_id": 7866
+    },
+    {
+        "caption": "classical, upbeat, energetic, lively",
+        "audio_path": "gsQknRyeNuc.npy",
+        "audio_id": 7867
+    },
+    {
+        "caption": "piano, emotional, serene, calming",
+        "audio_path": "vSg5El-85xE.npy",
+        "audio_id": 7868
+    },
+    {
+        "caption": "modern, solo, classic, emotional, soothing, sentimental",
+        "audio_path": "Ym4wibN9y9s.npy",
+        "audio_id": 7869
+    },
+    {
+        "caption": "classical, early modern classical, impressionism, late romantic era, russian romanticism, energetic",
+        "audio_path": "MU8arrayKN4.npy",
+        "audio_id": 7870
+    },
+    {
+        "caption": "emotional, reflective, Japanese, OST, dramatic",
+        "audio_path": "pD0gT-Kf_HY.npy",
+        "audio_id": 7871
+    },
+    {
+        "caption": "cheerful, upbeat, fun, piano, classical",
+        "audio_path": "xP_1b8WN6Ik.npy",
+        "audio_id": 7872
+    },
+    {
+        "caption": "romantic, love, relaxing, instrumental, beautiful, classic, timeless, emotional, legendary",
+        "audio_path": "52SSPI1_part_9.npy",
+        "audio_id": 7873
+    },
+    {
+        "caption": "peaceful, relaxing, ballad, Christian, hymn, meditation, worship",
+        "audio_path": "AaCkVgX2tok.npy",
+        "audio_id": 7874
+    },
+    {
+        "caption": "emotional, melancholic, cover, tutorial,",
+        "audio_path": "1dNxCJsbtWM.npy",
+        "audio_id": 7875
+    },
+    {
+        "caption": "challenging, classical, Russian, energetic",
+        "audio_path": "rwYdsmOi8RU.npy",
+        "audio_id": 7876
+    },
+    {
+        "caption": "ragtime, 1920s, upbeat, playful, energetic",
+        "audio_path": "xCyV30sBVJ0.npy",
+        "audio_id": 7877
+    },
+    {
+        "caption": "rap, emotional, tutorial, introspective",
+        "audio_path": "T0SQYX8FOaQ.npy",
+        "audio_id": 7878
+    },
+    {
+        "caption": "playful, piano, simple, cheerful",
+        "audio_path": "heDU1i8g4nE.npy",
+        "audio_id": 7879
+    },
+    {
+        "caption": "romantic, lyrical, serene, classical",
+        "audio_path": "AReNKBAAlQ0.npy",
+        "audio_id": 7880
+    },
+    {
+        "caption": "relaxing, soothing, bedtime",
+        "audio_path": "Ow_UCUlEUX4.npy",
+        "audio_id": 7881
+    },
+    {
+        "caption": "K-pop, Latin Samba, Montuno, Retro",
+        "audio_path": "qnAwQe2V-To.npy",
+        "audio_id": 7882
+    },
+    {
+        "caption": "Beautiful, Romantic, Sad, Modern",
+        "audio_path": "zHvBPwNUBS8.npy",
+        "audio_id": 7883
+    },
+    {
+        "caption": "Bossa Nova, jazz, meditation, lounge, cocktail, improv",
+        "audio_path": "rtxrSlVC0fM.npy",
+        "audio_id": 7884
+    },
+    {
+        "caption": "jazz, cover",
+        "audio_path": "U2eFE42MA6w.npy",
+        "audio_id": 7885
+    },
+    {
+        "caption": "classical, dark, dramatic, intense",
+        "audio_path": "F0hvKKCo9Zw.npy",
+        "audio_id": 7886
+    },
+    {
+        "caption": "classical, relaxing, study, concentration, calming, reading",
+        "audio_path": "VB6SIKl_part_14.npy",
+        "audio_id": 7887
+    },
+    {
+        "caption": "spooky, eerie, supernatural, Halloween, playful, fun, whimsical, creepy, humorous, light-hearted",
+        "audio_path": "b7t8WhduNLA.npy",
+        "audio_id": 7888
+    },
+    {
+        "caption": "pop, creepy, new age, jazz",
+        "audio_path": "5ChaQ_3FyOo.npy",
+        "audio_id": 7889
+    },
+    {
+        "caption": "bossa nova, blues, Brazilian, jazz, nostalgic, relaxed, soothing",
+        "audio_path": "n6sjHGMk7fo.npy",
+        "audio_id": 7890
+    },
+    {
+        "caption": "drama, emotional, nostalgic, romantic, soothing, K-pop, pop, jazz, new age",
+        "audio_path": "TqD34INOnC8.npy",
+        "audio_id": 7891
+    },
+    {
+        "caption": "classical, challenging, virtuosic, intense",
+        "audio_path": "i6tNBOyoGj4.npy",
+        "audio_id": 7892
+    },
+    {
+        "caption": "mysterious, enchanting, cinematic, emotional",
+        "audio_path": "Vu_Fq16vInU.npy",
+        "audio_id": 7893
+    },
+    {
+        "caption": "meditation, prayer, Christian, worship, relaxation, quiet",
+        "audio_path": "cex-s4b_part_14.npy",
+        "audio_id": 7894
+    },
+    {
+        "caption": ", worship, christian, relaxing, soft, stress relief, meditation, soothing",
+        "audio_path": "ob7Ucvk_part_9.npy",
+        "audio_id": 7895
+    },
+    {
+        "caption": "piano cover, fast, happy",
+        "audio_path": "CWq7RuP5JhU.npy",
+        "audio_id": 7896
+    },
+    {
+        "caption": "k-pop, retro, piano fade out",
+        "audio_path": "CBZ3zmfe4WY.npy",
+        "audio_id": 7897
+    },
+    {
+        "caption": "Japanese, animation, emotional, cover, jazz, pop, K-pop, New Age, cafe, romantic",
+        "audio_path": "0BwsdD-PQTI.npy",
+        "audio_id": 7898
+    },
+    {
+        "caption": "blues, jazz, upbeat, technical, challenging, educational",
+        "audio_path": "7jTG4r6WWUE.npy",
+        "audio_id": 7899
+    },
+    {
+        "caption": "Jazz, Samba, Bossa Nova",
+        "audio_path": "MPGFCmj55aU.npy",
+        "audio_id": 7900
+    },
+    {
+        "caption": "sentimental, soothing, reflective, calming",
+        "audio_path": "UY3ciNgjdrk.npy",
+        "audio_id": 7901
+    },
+    {
+        "caption": "playful, energetic, skillful, classic",
+        "audio_path": "yyEEoBJ_9hE.npy",
+        "audio_id": 7902
+    },
+    {
+        "caption": "modern, complex, challenging, avant-garde, virtuosic, diverse, 20th-century, contemporary",
+        "audio_path": "MwRfnx_3UZ8_part_3.npy",
+        "audio_id": 7903
+    }
+]
