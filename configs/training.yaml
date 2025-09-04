@@ -1,0 +1,40 @@
+training:
+  experiment_id: null
+  epochs: 500
+  device: cuda
+
+  dataloader:
+    batch_size: 64
+    num_workers: 4
+    shuffle: True
+    pin_memory: True
+  
+  optimizer:
+    name: AdamW
+    args:
+      lr: 5e-5
+      eps: 1e-6
+      betas: [0.9, 0.98]
+      weight_decay: 0.2
+      
+  amp: true
+  accumulation_steps: 1 # 1 for no accumulation
+
+  # Early stopping configs
+  early_stop:
+    enabled: False
+    patience: 4000
+    criteria: loss
+    minimize: true
+
+# Environment configuration
+env:
+  # Base directory of the repo, populated when config is loaded
+  base_dir: null
+  data_root: ${env.base_dir}/data
+  save_dir: ${env.base_dir}/save
+  experiments_dir: ${env.save_dir}/experiments
+freeze:
+  text_encoder: false
+  audio_encoder: false
+  midi_encoder: false

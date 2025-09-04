@@ -1,0 +1,20 @@
+task: ''  # choices: ['melody', 'velocity', 'composer', 'emotion']
+debug: false
+save_segments: false
+save_segments_audio: false
+not_use_tempo_changes: false
+use_velocity: false
+
+dict: 'pianobind/preprocess/midi/dict/CP.pkl'
+dataset: ''  # choices: ['pop909', 'pop1k7', 'ASAP', 'pianist8', 'emopia']
+input_dir: './data/datasets/piast_at/midi'
+input_file: ''
+pop1k7_mode: 'analyzed'  # choices: ['analyzed', 'transcribed']
+
+segment_mode: 'token'  # choices: ['token', 'bar']
+max_len: 512
+n_seg_bar: 4
+do_transpose: false
+
+output_dir: './data/datasets/piast_at/token_cp_use_velocity'
+name: ""  # will be saved as "{output_dir}/{name}.npy or pkl"

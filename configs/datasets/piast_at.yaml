@@ -1,0 +1,22 @@
+dataset_config:
+  dataset_name: piast_at
+  data_dir: ./data/datasets/piast_at
+  debug_input: false
+
+  text:
+    max_seq_length: 77 
+    tokenizer: robertatokenizer 
+    text_type: caption
+  audio:
+    dir: ./data/datasets/piast_at/audio
+    sr: 16000
+    crop_length: 20 
+    random_crop: true
+    augment: false
+    p_noise: 0.3
+    p_pitch_shift: 0.4cc
+  midi:
+    dir: ./data/datasets/piast_at
+    tgt_len: 512
+    n_vocab_type: 4  
+

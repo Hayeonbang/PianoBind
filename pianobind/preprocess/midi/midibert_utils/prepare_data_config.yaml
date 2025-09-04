@@ -1,0 +1,19 @@
+task: ''  # choices: ['melody', 'velocity', 'composer', 'emotion']
+debug: false
+save_segments: true
+save_segments_audio: true
+not_use_tempo_changes: false
+
+dict: 'MidiBERT_utils/prepare_data/dict/CP.pkl'
+dataset: ''  # choices: ['pop909', 'pop1k7', 'ASAP', 'pianist8', 'emopia']
+input_dir: './Data/Annotation/midi'
+input_file: ''
+pop1k7_mode: 'analyzed'  # choices: ['analyzed', 'transcribed']
+
+segment_mode: 'token'  # choices: ['token', 'bar']
+max_len: 512
+n_seg_bar: 4
+do_transpose: false
+
+output_dir: "./Data/Annotation/Token_CP"
+name: ""  # will be saved as "{output_dir}/{name}.npy or pkl"
