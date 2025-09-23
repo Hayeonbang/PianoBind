@@ -88,6 +88,13 @@ p {
     background-color: #d32f2f;
 }
 
+.conference {
+    font-weight: 600;
+    color: var(--primary-color);
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
 .abstract {
     background-color: var(--section-bg);
     padding: 25px;
